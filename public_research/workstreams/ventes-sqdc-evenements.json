@@ -1,0 +1,302 @@
+{
+  "id": "ventes-sqdc-evenements",
+  "limitations": [
+    "Les séries publiques trouvées sont par exercice ou trimestre; aucun chiffre public par SKU, marque, cultivar ou lot, et aucune série hebdomadaire/mensuelle des ventes Fleurons ou Be Humble n’a été vérifiée.",
+    "Les états financiers de la SQDC portent sur le détaillant; les estimations de part de marché provinciale sont distinctes et ne doivent pas être confondues avec sa part en dollars. La part de 56 % citée est une estimation en volume de 2022-2023.",
+    "Les fiches SQDC sont dynamiques, géolocalisées par code postal et affichent des stocks pouvant différer du magasin; les statuts d’indisponibilité relevés ne sont que des instantanés au 27 octobre 2026.",
+    "Les commentaires Reddit sont auto-sélectionnés, publics mais non représentatifs; la visibilité et l’indexation des plateformes varient, et un avis ne confirme ni vente, ni identité de cultivar/SKU, ni cultivation par C3.",
+    "Le site Santé Canada indique un tableau de 911 titulaires mais l’extraction publique consultée n’exposait par défaut que les 10 premières lignes; l’inscription spécifique de C3 n’a donc pas été confirmée dans ce rendu. Les fiches SQDC confirment C3 Solutions Innovantes Inc. comme fournisseur, ce qui ne signifie pas nécessairement que cette entité est le cultivateur de chaque produit/lot.",
+    "Le site officiel C3 Industries présente ses opérations multi-états aux États-Unis; il ne permet pas, dans la page consultée, de relier indépendamment l’entreprise mère aux ventes ou génétiques listées au Québec."
+  ],
+  "method_notes": [
+    "Priorité donnée aux publications officielles SQDC et aux fiches de produits consultées elles-mêmes; ouvertures de pages sources réalisées plutôt que de s’appuyer uniquement sur les extraits de recherche.",
+    "Chaque chiffre de vente est étiqueté par période, géographie/canal et unité. Dollars, kilogrammes, ventes détaillant et estimation du marché provincial restent séparés.",
+    "Pour les facteurs, l’observation factuelle et la causalité sont distinguées: quand la SQDC affirme qu’un élément a contribué à la croissance, le résultat le rapporte comme attribution de la SQDC et ne répartit pas l’effet causal.",
+    "Les champs non affichés (génétique précise des offres en rotation, ventes produit, prix historique, date de lancement/retirement et identité du producteur cultivant) ne sont pas imputés; aucun commentaire ni SKU incertain n’est présenté comme confirmé.",
+    "Les avis sociaux ont été résumés sans noms, handles, coordonnées ou profils; le champ d’extrait est une paraphrase anonymisée de moins de 20 mots, non une citation littérale."
+  ],
+  "name": "Données publiques SQDC, périodes de vente et facteurs événementiels observables",
+  "records": [
+    {
+      "claim_or_observation": "Pour l’exercice clos le 28 mars 2026, les ventes totales de la SQDC ont été de 809,5 M$ et de 165 169 kg; la valeur progresse de 9,2 % et le volume de 10,7 % par rapport à 2024-2025. Montants et volumes concernent toutes les ventes SQDC, pas une marque ni un SKU.",
+      "confidence": "Élevée",
+      "date_or_period": "Exercice 2025-2026, clos le 28 mars 2026",
+      "geography": "Québec; réseau SQDC et site Web",
+      "record_type": "vente",
+      "source_date": "Exercice clos le 28 mars 2026; publication répertoriée sur la page SQDC consultée le 27 octobre 2026",
+      "source_title": "Rapport annuel 2026",
+      "source_type": "Rapport annuel primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/media/3b29327a-77fe-4802-b5b6-10f6dec9fa9c/qVuLEg/Olive/Acc%C3%A8s%20info/Publications/SQDC_Rapport_annuel_2026.pdf"
+    },
+    {
+      "claim_or_observation": "Au T1 2026-2027 (12 semaines), la SQDC a rapporté 197,3 M$ et 39 936 kg, contre 181,0 M$ et 37 114 kg au T1 précédent. Succursales: 188,9 M$/38 193 kg contre 173,4 M$/35 522 kg; Web: 8,4 M$/1 743 kg contre 7,6 M$/1 592 kg. Il s’agit des ventes du détaillant, pas des ventes provinciales totales ni de la valeur d’un SKU.",
+      "confidence": "Élevée",
+      "date_or_period": "12 semaines closes le 20 juin 2026; comparaison avec 12 semaines closes le 21 juin 2025",
+      "geography": "Québec; réseau SQDC et site Web",
+      "record_type": "vente",
+      "source_date": "Rapport indique information datée du 1er septembre 2026",
+      "source_title": "Rapport financier intermédiaire pour le trimestre de 12 semaines clos le 20 juin 2026 — T1 2026-2027",
+      "source_type": "Rapport financier intermédiaire primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/media/49175fd3-e1cb-49e0-acc5-9fc41c33a07f/lmTmmw/Olive/Acc%C3%A8s%20info/Publications/SQDC_T1-2026-27.pdf"
+    },
+    {
+      "claim_or_observation": "Au T3 2025-2026, les ventes du détaillant étaient de 253,7 M$ et 51 732 kg, en hausse de 7,5 % en valeur et 8,1 % en volume sur le trimestre correspondant. La ventilation de ce trimestre est 243,2 M$/49 565 kg en succursales et 10,5 M$/2 167 kg en ligne. Sur les 40 premières semaines, le total était 624,0 M$ et 127 803 kg. Aucun résultat par cultivar ou marque n’est fourni dans ce rapport.",
+      "confidence": "Élevée",
+      "date_or_period": "T3: 16 semaines closes le 3 janvier 2026; cumul: 40 semaines",
+      "geography": "Québec; réseau SQDC et site Web",
+      "record_type": "vente",
+      "source_date": "Rapport indique information datée du 4 février 2026",
+      "source_title": "Rapport financier intermédiaire T3 2025-2026",
+      "source_type": "Rapport financier intermédiaire primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/media/28bc8036-fad7-4ba5-b300-3ce76e27e728/-becRQ/Olive/Acc%C3%A8s%20info/Publications/SQDC_T3-2025_VF.pdf"
+    },
+    {
+      "claim_or_observation": "En 2022-2023, les succursales ont réalisé 567,8 M$ et 100 254 kg; le canal en ligne a réalisé 34,1 M$ et 6 272 kg. Total SQDC: 601,9 M$ et 106 526 kg. Cette ventilation oppose deux canaux du détaillant, pas des marques.",
+      "confidence": "Élevée",
+      "date_or_period": "Exercice 2022-2023 clos le 25 mars 2023",
+      "geography": "Québec; réseau de succursales et SQDC.ca",
+      "record_type": "vente",
+      "source_date": "Publié le 5 juin 2023; communiqué daté du 2 juin 2023",
+      "source_title": "The SQDC reports net income of $94.9 million for fiscal 2022-2023",
+      "source_type": "Communiqué primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/en-CA/about-the-sqdc/medias/2023/06/05/The-SQDC-reports-net-income-of-949-million-for-fiscal-20222023-"
+    },
+    {
+      "claim_or_observation": "Pour 2022-2023, la SQDC estimait que ses 106 526 kg représentaient environ 56 % d’un marché québécois total estimé à 190 000 kg. Il s’agit d’une estimation de part de marché en volume, non d’une part en valeur; elle compare le détaillant légal au marché provincial estimé et n’est pas une vente de marque.",
+      "confidence": "Élevée pour l’attribution de l’estimation à la SQDC; estimation provinciale non auditée comme part observée",
+      "date_or_period": "Exercice 2022-2023",
+      "geography": "Marché provincial québécois estimé",
+      "record_type": "vente",
+      "source_date": "Publié le 5 juin 2023; communiqué daté du 2 juin 2023",
+      "source_title": "The SQDC reports net income of $94.9 million for fiscal 2022-2023",
+      "source_type": "Communiqué primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/en-CA/about-the-sqdc/medias/2023/06/05/The-SQDC-reports-net-income-of-949-million-for-fiscal-20222023-"
+    },
+    {
+      "claim_or_observation": "Le rapport annuel attribue une part de la hausse 2025-2026 à six nouvelles succursales, à la croissance de la demande d’extraits et de préroulés, au lancement responsable du vapotage à la fin de novembre 2025, ainsi qu’à la révision des heures de certaines succursales. C’est l’explication publiée par la SQDC; les effets isolés de chaque événement et la causalité indépendante ne sont pas établis par ces chiffres agrégés.",
+      "confidence": "Élevée pour les facteurs explicitement mentionnés par la SQDC; moyenne/faible pour leur poids causal respectif",
+      "date_or_period": "Exercice 2025-2026; vapotage amorcé fin novembre 2025",
+      "geography": "Québec",
+      "record_type": "evenement",
+      "source_date": "Exercice clos le 28 mars 2026",
+      "source_title": "Rapport annuel 2026",
+      "source_type": "Rapport annuel primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/media/3b29327a-77fe-4802-b5b6-10f6dec9fa9c/qVuLEg/Olive/Acc%C3%A8s%20info/Publications/SQDC_Rapport_annuel_2026.pdf"
+    },
+    {
+      "claim_or_observation": "La SQDC a indiqué que les ventes 2022-2023 étaient stables en dollars et volume malgré l’ouverture de 10 succursales et a attribué une partie du plateau à un conflit de travail affectant un quart des magasins: 24 magasins étaient en grève, dont 22 depuis la fin mai 2022, avec horaires réduits. L’attribution est celle de la société; elle n’isole pas l’effet sur les ventes Fleurons ou Be Humble.",
+      "confidence": "Élevée sur la période et les magasins affectés tels que rapportés par la SQDC; attribution causale non indépendante",
+      "date_or_period": "Exercice 2022-2023; grève à partir de mai 2022",
+      "geography": "Québec; certains magasins SQDC",
+      "record_type": "evenement",
+      "source_date": "Publié le 5 juin 2023; communiqué daté du 2 juin 2023",
+      "source_title": "The SQDC reports net income of $94.9 million for fiscal 2022-2023",
+      "source_type": "Communiqué primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/en-CA/about-the-sqdc/medias/2023/06/05/The-SQDC-reports-net-income-of-949-million-for-fiscal-20222023-"
+    },
+    {
+      "brand": "Be Humble.",
+      "claim_or_observation": "La fiche SQDC identifie Be Humble., le fournisseur C3 Solutions Innovantes Inc., la génétique Gelato #33 x Atom Splitter et la caractéristique «Cultivé Québec». Cela confirme la fiche et le fournisseur déclaré par la SQDC, pas l’identité du producteur cultivant ce lot ni ses ventes historiques.",
+      "confidence": "Élevée pour les champs déclarés sur la fiche; non établi pour volume de ventes ou historique",
+      "date_or_period": "Fiche consultée le 27 octobre 2026; date initiale de mise en vente non indiquée",
+      "format": "Fleurs séchées, 3,5 g",
+      "genetics_or_cultivar": "33 Splitter; génétique Gelato #33 x Atom Splitter",
+      "geography": "Québec",
+      "product": "33 Splitter",
+      "record_type": "genetique",
+      "source_date": "Non visible sur la fiche; consultée le 27 octobre 2026",
+      "source_title": "33 Splitter",
+      "source_type": "Fiche produit primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-33-splitter/875429001293-P/875429001293"
+    },
+    {
+      "brand": "Be Humble.",
+      "claim_or_observation": "La fiche SQDC donne Grape Galena comme variété, la génétique indiquée et le fournisseur C3 Solutions Innovantes Inc.; la fiche porte aussi «Cultivé Québec». L’identité du cultivateur de chaque lot et les ventes ne sont pas fournies.",
+      "confidence": "Élevée pour les champs déclarés sur la fiche; non établi pour ventes/historique",
+      "date_or_period": "Fiche consultée le 27 octobre 2026; date initiale de mise en vente non indiquée",
+      "format": "Haschich, 8 g",
+      "genetics_or_cultivar": "Variété Grape Galena; génétique (OGKB x Lost Sailor) x Platinum Kush",
+      "geography": "Québec",
+      "product": "Hasch de Raisins",
+      "record_type": "genetique",
+      "source_date": "Non visible sur la fiche; consultée le 27 octobre 2026",
+      "source_title": "Hasch de Raisins",
+      "source_type": "Fiche produit primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-hasch-de-raisins/875429000838-P/875429000838"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "La fiche confirme le fournisseur C3 Solutions Innovantes Inc., la catégorie sativa, la caractéristique «Cultivé Québec» et une variété en rotation. Elle ne permet donc pas d’associer le SKU à un seul cultivar permanent. Affichage de disponibilité consulté: indisponible; cet état est instantané et ne documente pas les périodes de vente antérieures.",
+      "confidence": "Élevée pour les données de fiche; faible/nulle pour l’historique de vente",
+      "date_or_period": "Fiche consultée le 27 octobre 2026",
+      "format": "Fleurs séchées, 3,5 g",
+      "genetics_or_cultivar": "La fiche le classe «En rotation»; génétique précise non donnée",
+      "geography": "Québec",
+      "product": "Menu Dessert",
+      "record_type": "produit",
+      "source_date": "Non visible sur la fiche; consultée le 27 octobre 2026",
+      "source_title": "Menu Dessert",
+      "source_type": "Fiche produit primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-menu-dessert/875429000401-P/875429000401"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "La SQDC affiche Fleurons, C3 Solutions Innovantes Inc. comme fournisseur, extraction à l’éthanol et 0,04 g de cannabis. Ce dérivé ne donne pas une génétique/cultivar à analyser. La disponibilité est dynamique et affichée indisponible à la consultation.",
+      "confidence": "Élevée pour les champs affichés; aucune donnée de ventes",
+      "date_or_period": "Fiche consultée le 27 octobre 2026",
+      "format": "Timbre oral; 0,04 g de cannabis",
+      "genetics_or_cultivar": "Mélange; aucune génétique de cultivar affichée",
+      "geography": "Québec",
+      "product": "Timbre THC 10",
+      "record_type": "produit",
+      "source_date": "Non visible sur la fiche; consultée le 27 octobre 2026",
+      "source_title": "Timbre THC 10",
+      "source_type": "Fiche produit primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-timbre-thc-10/875429000555-P/875429000555"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "La SQDC affiche le fournisseur C3 Solutions Innovantes Inc., une huile à ingérer, méthode éthanol et concentrations publiées de THC/CBD. Aucune génétique de cultivar ni période de vente n’est fournie; la disponibilité était affichée indisponible à la consultation.",
+      "confidence": "Élevée pour les champs affichés; aucune donnée de ventes",
+      "date_or_period": "Fiche consultée le 27 octobre 2026",
+      "format": "Huile; 0,41 g de cannabis",
+      "genetics_or_cultivar": "Mélange; cultivar précis non affiché",
+      "geography": "Québec",
+      "product": "Huile CBD",
+      "record_type": "produit",
+      "source_date": "Non visible sur la fiche; consultée le 27 octobre 2026",
+      "source_title": "Huile CBD",
+      "source_type": "Fiche produit primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-huile-cbd/875429000074-P/875429000074"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "Fiche SQDC: catégorie indica, fournisseur C3 Solutions Innovantes Inc., caractéristique «Cultivé Québec», variété en rotation. La page ne confirme pas un cultivar constant ni les ventes historiques; disponibilité affichée indisponible lors de la consultation.",
+      "confidence": "Élevée pour les champs affichés; aucune donnée de ventes",
+      "date_or_period": "Fiche consultée le 27 octobre 2026",
+      "format": "Préroulés, 1,5 g",
+      "genetics_or_cultivar": "Préroulés en rotation; génétique précise non affichée",
+      "geography": "Québec",
+      "product": "Méchant Pétard",
+      "record_type": "produit",
+      "source_date": "Non visible sur la fiche; consultée le 27 octobre 2026",
+      "source_title": "Méchant Pétard",
+      "source_type": "Fiche produit primaire, SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-mechant-petard/875429000425-P/875429000425"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "Retour très positif sur l’effet, mais des avis divergents parmi les lecteurs.",
+      "claim_or_observation": "Message public Reddit de type avis décrivant une expérience favorable; les commentaires sous le post montrent aussi des expériences divergentes. Anecdote auto-déclarée et non représentative; elle ne confirme ni SKU précis, ni ventes, ni identité du cultivateur. Paraphrase anonymisée: «retour très positif sur l’effet, mais des avis divergents parmi les lecteurs». ",
+      "confidence": "Moyenne sur la présence du commentaire public et son contenu; faible pour toute généralisation sur la qualité ou la demande",
+      "date_or_period": "Post affiché «2 years ago» à la consultation; l’auteur mentionne une récolte fraîche d’avril 2024; date exacte non extraite",
+      "genetics_or_cultivar": "Laughing Bubba selon l’auteur du message; pas de fiche SQDC actuelle vérifiée dans cette recherche",
+      "geography": "Communauté publique r/sqdc; expérience d’achat au Québec selon le contexte",
+      "product": "Laughing Bubba (mentionné dans un message Reddit; SKU non confirmé par cette source)",
+      "record_type": "avis",
+      "sentiment": "Positif dans le post initial; commentaires mixtes",
+      "source_date": "Affichage relatif «2 years ago» au 27 octobre 2026; le post mentionne avril 2024",
+      "source_title": "Fleurons/ Laughing bubba : r/sqdc",
+      "source_type": "Avis social public, Reddit",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1cvs4oh/fleurons_laughing_bubba/"
+    },
+    {
+      "claim_or_observation": "Les rapports publics consultés donnent des ventes agrégées annuelles/trimestrielles et parfois les canaux succursales/Web; aucun rapport consulté ne donne ventes, unités ou revenus par marque, SKU, génétique, lot ou magasin. Les fiches produits sont des instantanés dynamiques et les pages consultées n’affichent ni dates de lancement/fin de vente, ni série d’inventaire; elles ne permettent donc pas de reconstituer les périodes de vente. Les pages de produits SQDC affichaient «indisponible» au moment de la consultation, un état non historique.",
+      "confidence": "Élevée quant aux limites des documents/pages effectivement consultés; cela ne prouve pas l’absence de données non publiques ou obtenables sur demande",
+      "date_or_period": "État des sources au 27 octobre 2026",
+      "geography": "Québec",
+      "record_type": "transparence",
+      "source_date": "Page Publications consultée le 27 octobre 2026",
+      "source_title": "Publications; Rapport annuel 2026; fiches produits SQDC consultées",
+      "source_type": "Pages primaires de publications et fiches produits SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/a-propos/acces-a-l-information/Publications"
+    }
+  ],
+  "sources": [
+    {
+      "source_type": "Page officielle d’accès à l’information",
+      "title": "Publications SQDC",
+      "url": "https://www.sqdc.ca/fr-CA/a-propos/acces-a-l-information/Publications",
+      "what_it_supports": "Liste les rapports annuels publiés (dont 2026 et antérieurs) ainsi que les rapports financiers intermédiaires trimestriels."
+    },
+    {
+      "source_type": "Rapport annuel primaire SQDC",
+      "title": "Rapport annuel 2026",
+      "url": "https://www.sqdc.ca/media/3b29327a-77fe-4802-b5b6-10f6dec9fa9c/qVuLEg/Olive/Acc%C3%A8s%20info/Publications/SQDC_Rapport_annuel_2026.pdf",
+      "what_it_supports": "Chiffres annuels de valeur et volume de ventes, périodes financières, croissance et facteurs que la SQDC relie à l’augmentation des ventes."
+    },
+    {
+      "source_type": "Rapport financier primaire SQDC",
+      "title": "Rapport financier intermédiaire T1 2026-2027",
+      "url": "https://www.sqdc.ca/media/49175fd3-e1cb-49e0-acc5-9fc41c33a07f/lmTmmw/Olive/Acc%C3%A8s%20info/Publications/SQDC_T1-2026-27.pdf",
+      "what_it_supports": "Ventes du T1 2026-2027 et comparaison avec l’année précédente, volume et séparation succursales/Web."
+    },
+    {
+      "source_type": "Rapport financier primaire SQDC",
+      "title": "Rapport financier intermédiaire T3 2025-2026",
+      "url": "https://www.sqdc.ca/media/28bc8036-fad7-4ba5-b300-3ce76e27e728/-becRQ/Olive/Acc%C3%A8s%20info/Publications/SQDC_T3-2025_VF.pdf",
+      "what_it_supports": "Ventes et volumes du T3 et cumul 40 semaines; canaux succursales/Web; date de lancement du vapotage et changement d’heures."
+    },
+    {
+      "source_type": "Communiqué primaire SQDC",
+      "title": "The SQDC reports net income of $94.9 million for fiscal 2022-2023",
+      "url": "https://www.sqdc.ca/en-CA/about-the-sqdc/medias/2023/06/05/The-SQDC-reports-net-income-of-949-million-for-fiscal-20222023-",
+      "what_it_supports": "Ventes 2022-2023 par canal, volumes, estimation de marché en volume et part estimée, grève et contexte de plateau."
+    },
+    {
+      "source_type": "Fiche produit primaire SQDC",
+      "title": "33 Splitter",
+      "url": "https://www.sqdc.ca/fr-CA/p-33-splitter/875429001293-P/875429001293",
+      "what_it_supports": "Marque Be Humble., fournisseur, cultivar/génétique, format et indication cultivé Québec."
+    },
+    {
+      "source_type": "Fiche produit primaire SQDC",
+      "title": "Hasch de Raisins",
+      "url": "https://www.sqdc.ca/fr-CA/p-hasch-de-raisins/875429000838-P/875429000838",
+      "what_it_supports": "Marque Be Humble., Grape Galena et génétique affichée, fournisseur, format et indication cultivé Québec."
+    },
+    {
+      "source_type": "Fiche produit primaire SQDC",
+      "title": "Menu Dessert",
+      "url": "https://www.sqdc.ca/fr-CA/p-menu-dessert/875429000401-P/875429000401",
+      "what_it_supports": "Produit Fleurons, variété en rotation, fournisseur, format et catégorie sativa."
+    },
+    {
+      "source_type": "Fiche produit primaire SQDC",
+      "title": "Timbre THC 10",
+      "url": "https://www.sqdc.ca/fr-CA/p-timbre-thc-10/875429000555-P/875429000555",
+      "what_it_supports": "Produit Fleurons, fournisseur, méthode de fabrication et poids affiché."
+    },
+    {
+      "source_type": "Fiche produit primaire SQDC",
+      "title": "Huile CBD",
+      "url": "https://www.sqdc.ca/fr-CA/p-huile-cbd/875429000074-P/875429000074",
+      "what_it_supports": "Produit Fleurons, fournisseur, format et taux de cannabinoïdes affichés."
+    },
+    {
+      "source_type": "Fiche produit primaire SQDC",
+      "title": "Méchant Pétard",
+      "url": "https://www.sqdc.ca/fr-CA/p-mechant-petard/875429000425-P/875429000425",
+      "what_it_supports": "Produit Fleurons, fournisseur, format, catégorie et rotation déclarés."
+    },
+    {
+      "source_type": "Publication et commentaires sociaux publics",
+      "title": "Fleurons/ Laughing bubba : r/sqdc",
+      "url": "https://www.reddit.com/r/sqdc/comments/1cvs4oh/fleurons_laughing_bubba/",
+      "what_it_supports": "Exemple d’avis public sur un produit indiqué comme Fleurons/Laughing Bubba, avec points de vue divergents; aucun volume de ventes vérifié."
+    },
+    {
+      "source_type": "Registre fédéral Santé Canada",
+      "title": "Licensed cultivators, processors and sellers of cannabis under the Cannabis Act",
+      "url": "https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html",
+      "what_it_supports": "Explique que le tableau liste les titulaires de licences fédérales; rendu consulté ne permettait pas de confirmer spécifiquement C3 Solutions Innovantes dans les lignes visibles."
+    },
+    {
+      "source_type": "Site officiel d’entreprise",
+      "title": "C3 Industries",
+      "url": "https://c3industries.com/",
+      "what_it_supports": "Présentation générale de C3 Industries et de ses opérations; la page consultée présente essentiellement les opérations américaines et ne fournit pas de données de ventes SQDC ni de génétiques Fleurons/Be Humble."
+    }
+  ],
+  "summary": "Sources consultées jusqu’au 27 octobre 2026. La SQDC publie des résultats de ventes agrégés par exercice et trimestre, ventilés au besoin entre succursales et Web, mais pas de série publique de ventes par marque/SKU dans les sources consultées. Les pages produits SQDC identifient le fournisseur C3 Solutions Innovantes Inc. et quelques génétiques; elles décrivent une offre et un état de disponibilité dynamique, pas l’historique des ventes. L’exercice 2025-2026 s’est terminé avec 809,5 M$ de ventes et 165 169 kg; la période ne permet pas d’attribuer une hausse à Fleurons ou Be Humble. La SQDC attribue une partie de sa croissance à plusieurs facteurs (ouvertures, extraits, vapotage, heures), ce qui est une attribution de l’entreprise, non une estimation causale indépendante."
+}

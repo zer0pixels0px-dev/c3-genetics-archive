@@ -1,0 +1,26 @@
+{
+  "source_name": "Kind Green Buds",
+  "source_index_url": "https://kindgreenbuds.com/marijuana-strain-library/",
+  "checked_at_utc": "2026-10-28T03:10:00Z",
+  "inventory_profile_urls": 1263,
+  "confirmed_profile_pages": 1261,
+  "unresolved_urls": [
+    {
+      "requested_source_url": "https://kindgreenbuds.com/marijuana-strains/fruity-thai/",
+      "final_response_url": "https://kindgreenbuds.com/marijuana-strain-library/",
+      "http_status": 200,
+      "extraction_status": "redirected_to_index",
+      "record_file": "fruity-thai.json",
+      "response_sha256": "46ee0d53c22e70ea4eb9251eaa7357d355f8f67c07e47a6679c490454bc7445c"
+    },
+    {
+      "requested_source_url": "https://kindgreenbuds.com/marijuana-strains/wappa/",
+      "final_response_url": "https://kindgreenbuds.com/marijuana-strain-library/",
+      "http_status": 200,
+      "extraction_status": "redirected_to_index",
+      "record_file": "wappa.json",
+      "response_sha256": "99d54cd625bd32f265253a9dfcab41522b3295d11a5f28181a0f5b56d358121b"
+    }
+  ],
+  "note": "HTTP 200 is not treated as a profile capture when final_response_url/canonical_url points back to the index."
+}

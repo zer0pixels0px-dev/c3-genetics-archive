@@ -1,0 +1,51 @@
+{
+  "archive_name": "Kind Green Buds Marijuana Strain Library — isolated source archive",
+  "source_name": "Kind Green Buds",
+  "source_index_url": "https://kindgreenbuds.com/marijuana-strain-library/",
+  "source_index_capture": "raw_pages/index_source.html",
+  "source_index_capture_sha256": "b5bc89d263069042d9ef8d0aa25dd97af793a6605b0a1bee199be28e8c703928",
+  "inventory_file": "metadata/profile_inventory.json",
+  "inventory_unique_profile_urls": 1263,
+  "records_archived": 1264,
+  "record_status_counts": {
+    "success": 1262,
+    "redirected_to_index": 2
+  },
+  "crawl_stats": {},
+  "last_updated_at_utc": "2026-10-28T03:12:07+00:00",
+  "collection_method": "Scrapling 0.5 static Spider; robots_txt_obey=true; one request in flight per domain; 1.5 s minimum download delay; AutoThrottle enabled; no login, proxy or access-control bypass.",
+  "provenance_policy": "Every record has its own source_url, final_response_url, canonical_url, retrieval timestamp, HTTP status, source metadata and SHA-256 fingerprints. Source is never silently merged with C3, SQDC, OCS or social platforms.",
+  "scope_note": "This index is a general cultivar reference library. Listing a cultivar here does not prove that C3 Industries grew, sold or supplied it.",
+  "integrity_note": "Local hashes are integrity fingerprints, not a publisher-issued digital signature or proof of authorship.",
+  "files": [
+    "records/all_records.jsonl",
+    "records/all_records.csv",
+    "README.md",
+    "crawl_kindgreenbuds.py"
+  ],
+  "profile_pages_archived": 1261,
+  "profile_urls_not_resolved_to_profile": [
+    "https://kindgreenbuds.com/marijuana-strains/fruity-thai/",
+    "https://kindgreenbuds.com/marijuana-strains/wappa/"
+  ],
+  "non_profile_json_records": 1,
+  "targeted_url_checks": [
+    {
+      "requested_source_url": "https://kindgreenbuds.com/marijuana-strains/fruity-thai/",
+      "final_response_url": "https://kindgreenbuds.com/marijuana-strain-library/",
+      "http_status": 200,
+      "extraction_status": "redirected_to_index",
+      "record_file": "fruity-thai.json",
+      "response_sha256": "46ee0d53c22e70ea4eb9251eaa7357d355f8f67c07e47a6679c490454bc7445c"
+    },
+    {
+      "requested_source_url": "https://kindgreenbuds.com/marijuana-strains/wappa/",
+      "final_response_url": "https://kindgreenbuds.com/marijuana-strain-library/",
+      "http_status": 200,
+      "extraction_status": "redirected_to_index",
+      "record_file": "wappa.json",
+      "response_sha256": "99d54cd625bd32f265253a9dfcab41522b3295d11a5f28181a0f5b56d358121b"
+    }
+  ],
+  "crawl_stats_note": "The full crawl previously logged 1,260 successful HTTP 200 item responses and 0 failed requests; individual source/final URLs remain the authority for whether a response is the requested cultivar profile. The two final URL checks returned the general index instead."
+}

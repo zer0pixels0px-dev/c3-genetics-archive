@@ -1,0 +1,229 @@
+{
+  "id": "reseaux-sociaux",
+  "limitations": [
+    "Reddit fournit ici les exemples les plus riches et directement consultables; l’échantillon est constitué de publications auto-sélectionnées et ne représente pas tous les acheteurs de la SQDC.",
+    "Instagram a bloqué l’accès direct à la publication vérifiée; l’indexation de recherche ne remplace pas la consultation des commentaires ni ne permet d’en confirmer le contenu.",
+    "Les recherches n’ont pas établi de page ou de commentaire Facebook ou TikTok pertinent et directement vérifiable sur les produits visés. Cela ne prouve pas qu’il n’en existe pas.",
+    "Les dates relatives affichées par Reddit (« il y a 1 an », « il y a 2 ans ») ne donnent pas de date exacte; elles sont conservées comme telles.",
+    "Les évaluations, taux, formats, prix, disponibilité et génétiques inscrits par les contributeurs n’ont pas tous été corroborés par une fiche SQDC officielle. Les commentaires ne valident ni cultivar génétique, ni lot, ni achat réel sauf lorsqu’un auteur se décrit comme acheteur.",
+    "Les vues et mentions J’aime YouTube sont des métriques d’engagement, non des unités vendues, une valeur de vente, des ventes provinciales ou une part de marché."
+  ],
+  "method_notes": [
+    "Priorité donnée aux sources primaires C3 consultées directement pour établir l’identité des marques, puis aux fils publics r/sqdc et à une page YouTube consultés directement.",
+    "Les opinions sociales sont paraphrasées et aucun nom, identifiant, handle, profil ou coordonnée de contributeur n’est reproduit.",
+    "Aucun contenu privé, espace nécessitant connexion, commentaire non visible ou mécanisme de contournement n’a été exploité.",
+    "Les avis ambivalents sont conservés comme tels; aucune causalité entre commentaires, produits et ventes n’est inférée.",
+    "Cette recherche porte sur la présence et la consultabilité de commentaires/avis publics, non sur le calcul des ventes ou la vérification complète des SKU."
+  ],
+  "name": "Présence de commentaires publics sur Fleurons et Be Humble (C3) — plateformes sociales",
+  "records": [
+    {
+      "brand": "Fleurons; Be Humble",
+      "claim_or_observation": "La page de marque de C3 Innovative Solutions présente Be Humble et Fleuron comme ses marques de produits. Cela établit le contexte de marque pour les avis repérés; cela ne confirme pas le statut officiel de chaque produit ou SKU mentionné dans un post utilisateur.",
+      "confidence": "Élevée pour l’association de marque affichée par l’entreprise.",
+      "record_type": "transparence",
+      "source_date": "Page indiquée publiée le 15 mai 2026",
+      "source_title": "House of Brands — C3 Innovative Solutions",
+      "source_type": "Site officiel de l’entreprise",
+      "source_url": "https://www.c3.farm/brands"
+    },
+    {
+      "brand": "C3 Industries",
+      "claim_or_observation": "La page institutionnelle « C3’s Socials » consultée ne liste qu’un lien LinkedIn de l’entreprise. C’est la liste publiée sur cette page, pas une preuve que C3 ou ses marques ne possèdent aucun autre profil social.",
+      "confidence": "Élevée pour le contenu visible de la page consultée; faible pour conclure à l’absence d’autres profils.",
+      "record_type": "transparence",
+      "source_date": "Page datée du 31 mars 2025",
+      "source_title": "C3’s Socials",
+      "source_type": "Site officiel de l’entreprise",
+      "source_url": "https://c3industries.com/social/"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "Un fil public mêle un retour initial très positif et des commentaires plus réservés sur la structure des fleurs, la qualité de culture et les effets. Plusieurs expériences subjectives divergent. Les commentaires ne constituent pas un indicateur représentatif des acheteurs.",
+      "confidence": "Élevée pour la présence et la teneur générale des commentaires; moyenne pour les expériences produit autodéclarées.",
+      "date_or_period": "Reddit affiche « il y a 2 ans »; date exacte non affichée dans l’extraction. Le post évoque une récolte fraîche d’avril 2024.",
+      "genetics_or_cultivar": "Laughing Bubba; parenté non confirmée par la source",
+      "geography": "Québec / communauté r/sqdc",
+      "product": "Laughing Bubba (nom du produit dans le titre du fil; génétique parentale non précisée)",
+      "record_type": "avis",
+      "sentiment": "Mixte",
+      "source_date": "Date relative affichée : il y a 2 ans",
+      "source_title": "Fleurons/ Laughing bubba",
+      "source_type": "Fil public Reddit, critique et commentaires",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1cvs4oh/fleurons_laughing_bubba/"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "Le post d’avis décrit favorablement le goût et les effets. Les commentaires comprennent des critiques sur la texture, l’humidité et la combustion; un participant rapporte avoir renoncé à l’achat après avoir examiné le produit en magasin. Il s’agit de témoignages, non d’un contrôle de lot ni d’une donnée de vente.",
+      "confidence": "Élevée pour l’existence des opinions consultées; moyenne pour leur exactitude et leur généralisabilité.",
+      "date_or_period": "Reddit affiche « il y a 1 an »; date exacte non visible dans l’extraction.",
+      "genetics_or_cultivar": "Tropical Burst; lignée non précisée",
+      "geography": "Québec / communauté r/sqdc",
+      "product": "Tropical Burst, 3,5 g (détails de puissance et prix rapportés dans le titre du post, non corroborés ici par la SQDC)",
+      "record_type": "avis",
+      "sentiment": "Mixte, avec plusieurs commentaires critiques",
+      "source_date": "Date relative affichée : il y a 1 an",
+      "source_title": "Fleurons Tropical Burst / 3.5 g / 29% THC / 26.90$",
+      "source_type": "Fil public Reddit, avis et commentaires",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1len9is/fleurons_tropical_burst_35_g_29_thc_2690/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "Un avis public détaillé donne des évaluations positives du parfum, de l’apparence et des arômes, mais signale notamment quelques petites fleurs et une texture jugée un peu sèche ou friable. Un commentaire précise que le produit est vendu en rotation. Les scores et observations sont ceux du contributeur, pas une note SQDC officielle.",
+      "confidence": "Élevée pour le contenu de l’avis public; moyenne pour l’expérience et les paramètres produit autodéclarés.",
+      "date_or_period": "Reddit affiche « il y a 2 ans »; date exacte non visible dans l’extraction.",
+      "genetics_or_cultivar": "Vanilla Sky (cultivar nommé par l’auteur; parenté non établie dans ce fil)",
+      "geography": "Québec / communauté r/sqdc",
+      "product": "Champs Verdoyants / Vanilla Sky; les taux THC/terpènes sont rapportés par le titre utilisateur, non vérifiés ici auprès de la SQDC",
+      "record_type": "avis",
+      "sentiment": "Plutôt positif, avec réserves sur l’état du produit",
+      "source_date": "Date relative affichée : il y a 2 ans",
+      "source_title": "Le Champs Verdoyants par Be Humble (Vanilla Sky) / 28,17% THC / 2,3% Terps / Un Beau Champs Verdoyants tel que je suis",
+      "source_type": "Fil public Reddit, critique structurée et commentaires",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1jahrpl/le_champs_verdoyants_par_be_humble_vanilla_sky/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "La critique rapporte des impressions favorables sur l’odeur, l’apparence et les arômes, avec des réserves sur la manipulation et l’emballage. Les commentaires comprennent à la fois un retour favorable d’un acheteur déclaré et une critique de l’apparence de haschs québécois. Ce sont des opinions individuelles.",
+      "confidence": "Élevée pour la présence des avis; moyenne pour les caractéristiques et expériences non vérifiées indépendamment.",
+      "date_or_period": "Reddit affiche « il y a 2 ans »; date exacte non visible dans l’extraction.",
+      "genetics_or_cultivar": "Grape Galena est identifiée dans la critique comme la souche utilisée; attribution rapportée par l’auteur",
+      "geography": "Québec / communauté r/sqdc",
+      "product": "Hasch de Raisins; présentation et taux rapportés dans le titre du fil, non vérifiés par une fiche SQDC dans cette recherche",
+      "record_type": "avis",
+      "sentiment": "Mixte",
+      "source_date": "Date relative affichée : il y a 2 ans",
+      "source_title": "Hasch de Raisins par Be Humble / 27,63% THC / 17,42% CBD / Vous Fera-t-il Virer Zinzin?",
+      "source_type": "Fil public Reddit, critique structurée et commentaires",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1j0e096/hasch_de_raisins_par_be_humble_2763_thc_1742_cbd/"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "Un avis public est positif sur la puissance perçue, le goût herbacé et le rapport qualité-prix. La page consultée affiche le post comme public, mais ne fournit pas de validation officielle du SKU ou des caractéristiques inscrites par l’auteur.",
+      "confidence": "Élevée pour l’existence et le texte du post; moyenne pour les détails produits autodéclarés.",
+      "date_or_period": "Reddit affiche « il y a 1 an »; date exacte non visible dans l’extraction.",
+      "genetics_or_cultivar": "GMO x Sherb Crasher, selon le post",
+      "geography": "Québec / communauté r/sqdc",
+      "product": "Menu Cantine, GMO x Sherb Crasher (nom, format, teneur et prix tels que rapportés dans le titre utilisateur; SKU non confirmé officiellement)",
+      "record_type": "avis",
+      "sentiment": "Positif",
+      "source_date": "Date relative affichée : il y a 1 an",
+      "source_title": "Fleurons /menu cantine /GMO x Sherb crasher thc 29.07 %/25.40$",
+      "source_type": "Post public Reddit, avis utilisateur",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1nmc8d4/fleurons_menu_cantine_gmo_x_sherb_crasher_thc/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "Un avis public décrit les fleurs et la fumée de façon positive et recommande le produit à ceux qui cherchent à varier les cultivars. La page consultée ne révèle pas de commentaires d’autres acheteurs dans l’extraction; c’est un avis isolé, pas un consensus.",
+      "confidence": "Élevée pour l’existence et la teneur de l’avis; moyenne pour les données de produit autodéclarées.",
+      "date_or_period": "Reddit affiche « il y a 1 an »; date exacte non visible dans l’extraction.",
+      "genetics_or_cultivar": "Hawaiian Marker, selon le post",
+      "geography": "Québec / communauté r/sqdc",
+      "product": "Découverte, Hawaiian Marker, 3,5 g; détails THC dans le titre du post, non corroborés par une fiche officielle dans cette recherche",
+      "record_type": "avis",
+      "sentiment": "Positif",
+      "source_date": "Date relative affichée : il y a 1 an",
+      "source_title": "Découverte by Be Humble/ Hawaiian Marker /29.69 % THC/3.5 g",
+      "source_type": "Post public Reddit, avis utilisateur",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1m1shvw/d%C3%A9couverte_by_be_humble_hawaiian_marker_2969/"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "Une vidéo publique intitulée SQDC Weed Review #361 porte sur Menu Cantine Indica de Fleurons. La page affiche 869 vues et 64 mentions J’aime au moment de la consultation. L’extraction ne donne ni description ni commentaires du public; les métriques de visionnement ne sont pas des ventes et le contenu ne permet pas ici de confirmer une expérience d’achat.",
+      "confidence": "Élevée pour l’existence, le titre et la date de la vidéo; faible pour son contenu d’opinion et les commentaires du public, non visibles dans l’extraction.",
+      "date_or_period": "20 octobre 2022 (date de publication visible); métriques observées lors de la consultation du 27 octobre 2026",
+      "geography": "Québec / contenu portant sur la SQDC",
+      "product": "Menu Cantine Indica (le titre YouTube identifie la marque et le produit, mais pas un SKU plus précis)",
+      "record_type": "avis",
+      "sentiment": "Non déterminable à partir du titre et de l’extraction consultée",
+      "source_date": "20 octobre 2022",
+      "source_title": "SQDC Weed Review #361 Menu Cantine Indica de Fleurons",
+      "source_type": "Vidéo publique YouTube, avis de créateur",
+      "source_url": "https://www.youtube.com/watch?v=zLAzH-6H9co"
+    },
+    {
+      "brand": "Fleurons / Be Humble",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "Une publication Instagram associée dans l’index à Fleurons n’a pas pu être vérifiée directement : le navigateur affiche « This content is unavailable » ainsi que des restrictions de visibilité d’Instagram. Aucun commentaire ni auteur n’est retenu comme fait. Cela documente une limite d’accès, pas l’absence de commentaires sur Instagram.",
+      "confidence": "Élevée pour l’état d’accès observé à la date de consultation; faible sur la publication et ses commentaires, non consultables directement.",
+      "date_or_period": "Consultation directe le 27 octobre 2026; date de publication non confirmée par la page inaccessible",
+      "geography": "Plateforme Instagram; contenu lié au Québec selon le titre indexé",
+      "record_type": "transparence",
+      "sentiment": "Sans objet",
+      "source_date": "Non confirmée directement",
+      "source_title": "This content is unavailable • Instagram (URL indexée comme publication Fleurons — Huile de CBD)",
+      "source_type": "Page publique Instagram, accès restreint lors de la vérification",
+      "source_url": "https://www.instagram.com/p/C9a0aaKheiz/"
+    }
+  ],
+  "sources": [
+    {
+      "source_type": "Site officiel de l’entreprise",
+      "title": "House of Brands — C3 Innovative Solutions",
+      "url": "https://www.c3.farm/brands",
+      "what_it_supports": "Association des marques Be Humble et Fleuron avec C3 Innovative Solutions."
+    },
+    {
+      "source_type": "Site officiel de l’entreprise",
+      "title": "C3’s Socials",
+      "url": "https://c3industries.com/social/",
+      "what_it_supports": "Page sociale corporative consultée; elle liste C3 LinkedIn. Ne prouve pas l’absence d’autres profils."
+    },
+    {
+      "source_type": "Fil public Reddit",
+      "title": "Fleurons/ Laughing bubba",
+      "url": "https://www.reddit.com/r/sqdc/comments/1cvs4oh/fleurons_laughing_bubba/",
+      "what_it_supports": "Avis et commentaires d’utilisateurs aux perceptions diverses sur un produit Fleurons en rotation."
+    },
+    {
+      "source_type": "Fil public Reddit",
+      "title": "Fleurons Tropical Burst / 3.5 g / 29% THC / 26.90$",
+      "url": "https://www.reddit.com/r/sqdc/comments/1len9is/fleurons_tropical_burst_35_g_29_thc_2690/",
+      "what_it_supports": "Avis initial positif et réponses critiques sur la texture, l’humidité, la combustion et l’intention d’achat."
+    },
+    {
+      "source_type": "Fil public Reddit",
+      "title": "Le Champs Verdoyants par Be Humble (Vanilla Sky) / 28,17% THC / 2,3% Terps / Un Beau Champs Verdoyants tel que je suis",
+      "url": "https://www.reddit.com/r/sqdc/comments/1jahrpl/le_champs_verdoyants_par_be_humble_vanilla_sky/",
+      "what_it_supports": "Critique structurée d’un produit Be Humble et échanges publics, dont une précision sur la rotation."
+    },
+    {
+      "source_type": "Fil public Reddit",
+      "title": "Hasch de Raisins par Be Humble / 27,63% THC / 17,42% CBD / Vous Fera-t-il Virer Zinzin?",
+      "url": "https://www.reddit.com/r/sqdc/comments/1j0e096/hasch_de_raisins_par_be_humble_2763_thc_1742_cbd/",
+      "what_it_supports": "Critique structurée du hasch et commentaires aux évaluations contrastées."
+    },
+    {
+      "source_type": "Post public Reddit",
+      "title": "Fleurons /menu cantine /GMO x Sherb crasher thc 29.07 %/25.40$",
+      "url": "https://www.reddit.com/r/sqdc/comments/1nmc8d4/fleurons_menu_cantine_gmo_x_sherb_crasher_thc/",
+      "what_it_supports": "Avis positif sur un produit présenté par l’auteur comme Menu Cantine GMO x Sherb Crasher."
+    },
+    {
+      "source_type": "Post public Reddit",
+      "title": "Découverte by Be Humble/ Hawaiian Marker /29.69 % THC/3.5 g",
+      "url": "https://www.reddit.com/r/sqdc/comments/1m1shvw/d%C3%A9couverte_by_be_humble_hawaiian_marker_2969/",
+      "what_it_supports": "Avis positif public sur un produit présenté comme Be Humble Hawaiian Marker."
+    },
+    {
+      "source_type": "Page publique YouTube / vidéo",
+      "title": "SQDC Weed Review #361 Menu Cantine Indica de Fleurons",
+      "url": "https://www.youtube.com/watch?v=zLAzH-6H9co",
+      "what_it_supports": "Présence d’une vidéo d’avis portant sur un produit Fleurons; date, vues et mentions J’aime visibles, mais pas les commentaires du public dans l’extraction."
+    },
+    {
+      "source_type": "Page publique Instagram consultée directement",
+      "title": "This content is unavailable • Instagram",
+      "url": "https://www.instagram.com/p/C9a0aaKheiz/",
+      "what_it_supports": "Limite d’accès observée : le navigateur indique que le contenu est indisponible et soumis à des restrictions de visibilité."
+    }
+  ],
+  "summary": "Des avis d’utilisateurs publiquement consultables et détaillés ont été trouvés surtout sur Reddit, dans r/sqdc; ils couvrent plusieurs produits Fleurons et Be Humble, avec des avis parfois contradictoires. Une vidéo publique YouTube est bien un avis consacré à Fleurons, mais la page consultée n’expose pas les commentaires du public ni une description permettant d’évaluer l’avis. Des publications Instagram de la marque apparaissent dans l’index de recherche, mais la consultation directe d’une publication a été bloquée par les restrictions d’accès d’Instagram. Cette recherche ne confirme pas l’absence de commentaires sur Facebook, Instagram ou TikTok et ne permet pas d’estimer la représentativité des opinions ni leur lien avec les ventes."
+}

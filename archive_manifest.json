@@ -1,0 +1,33 @@
+{
+  "archive": "C3 / Fleurons / Be Humble public research archive",
+  "created_utc": "2026-10-28T03:08:00Z",
+  "research_job_id": "97626d925a27",
+  "public_research": {
+    "workstreams": 10,
+    "records": 134,
+    "unique_source_urls": 67,
+    "raw_workflow_result_sha256": "cd44b8cd192091d1705334d4817b144e43f06a4ec71adbc5c9cee8fe3e5bbdb3",
+    "records_jsonl": "public_research/records/public_research.jsonl",
+    "records_csv": "public_research/records/public_research.csv",
+    "source_registry": "public_research/metadata/source_registry.json",
+    "synthesis": "public_research/reports/synthese_fr.md"
+  },
+  "kindgreenbuds": {
+    "separate_source_archive": true,
+    "index_unique_profile_urls": 1263,
+    "verified_profile_pages_archived": 1261,
+    "urls_redirecting_to_index": 2,
+    "unresolved_profile_urls": [
+      "https://kindgreenbuds.com/marijuana-strains/fruity-thai/",
+      "https://kindgreenbuds.com/marijuana-strains/wappa/"
+    ],
+    "non_profile_json_records": 1,
+    "manifest": "kindgreenbuds/metadata/manifest.json"
+  },
+  "separation_policy": "Never infer C3 cultivation from a Kind Green Buds cultivar page; never merge observations across sources without explicit source-specific citation.",
+  "limitations": [
+    "Official public reports found do not provide complete sales by individual Ontario shop or sales by Fleurons/Be Humble SKU.",
+    "Social comments are self-selected and incomplete; platform coverage is not exhaustive.",
+    "Kind Green Buds entries are general cultivar information, not proof of C3 production."
+  ]
+}

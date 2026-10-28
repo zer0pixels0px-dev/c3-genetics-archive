@@ -1,0 +1,278 @@
+[
+  {
+    "id": "c3-entreprise",
+    "name": "C3 Industries / C3 Innovative Solutions Inc.",
+    "records": 15,
+    "record_types": {
+      "entreprise": 1,
+      "transparence": 3,
+      "produit": 4,
+      "genetique": 2,
+      "avis": 2,
+      "vente": 2,
+      "evenement": 1
+    },
+    "limitations": [
+      "C3 Industries (Michigan) et C3 Innovative Solutions Inc. (Québec) ont des noms proches, mais aucune source primaire consultée n’établit leur lien juridique. Ne pas attribuer les marques canadiennes à C3 Industries sans preuve additionnelle.",
+      "Le site public de Fleurons (fleurons.quebec) n’a pas pu être extrait par l’outil de consultation en raison d’un blocage d’accès réseau; les informations sur les SKU Fleurons proviennent des fiches SQDC et la liste des marques du site officiel c3.farm.",
+      "Les fiches SQDC présentent une vérification d’âge et du contenu dynamique. Les pages de produits ont livré des champs descriptifs, mais la disponibilité affichée est temporaire et peut différer selon le code postal et les succursales.",
+      "Les deux fils Reddit étaient accessibles publiquement sans collecte de profils; les dates étaient relatives et les avis sont auto-sélectionnés, non représentatifs. Les extraits courts ne permettent pas de généraliser satisfaction ou qualité.",
+      "Les rapports financiers SQDC fournissent des totaux par réseau et grandes catégories, pas des ventes par SKU, producteur, marque ou génétique. Ils ne suffisent donc pas à calculer ventes, croissance ou part de marché de Fleurons/Be Humble.",
+      "La page OCS consultée affichait un produit Be Humble en rupture de stock. Cette observation de catalogue ne prouve pas des ventes effectives ni une disponibilité actuelle.",
+      "Aucun commentaire acheteur du site SQDC n’était disponible dans les pages consultées; les avis recueillis proviennent de discussions Reddit, avec couverture partielle des plateformes publiques."
+    ],
+    "method_notes": [
+      "Priorité donnée aux pages primaires de Santé Canada, C3, SQDC et OCS; les commentaires consommateurs sont distingués des données de ventes et des descriptions promotionnelles.",
+      "Un SKU est traité comme confirmé uniquement quand une fiche officielle SQDC ou OCS consultée le documente. Les produits en rotation sont signalés sans leur attribuer une génétique non publiée.",
+      "Les ventes 2024-2025 et 2025-2026 sont les ventes du détaillant SQDC; elles ne sont ni le marché québécois total ni les ventes de C3. Les parts de marché de la marque ne sont pas calculées.",
+      "Pour les facteurs explicatifs, l’observation d’interruption des livraisons et ses effets sont attribués au rapport SQDC; la hausse 2025-2026 et ses facteurs sont présentés comme l’explication déclarée par la SQDC, et non comme une causalité indépendante démontrée.",
+      "Confiance élevée pour les champs de licence et les fiches officielles; moyenne pour les déclarations d’entreprise non corroborées; faible pour toute extrapolation à partir de commentaires sociaux."
+    ]
+  },
+  {
+    "id": "c3-genetiques",
+    "name": "Génétiques et cultivars effectivement commercialisés par C3 au Québec",
+    "records": 12,
+    "record_types": {
+      "transparence": 3,
+      "genetique": 2,
+      "produit": 2,
+      "avis": 3,
+      "vente": 1,
+      "evenement": 1
+    },
+    "limitations": [
+      "Les deux cultivars Be Humble confirmés ici le sont comme produits commercialisés par un fournisseur dont le nom est C3 Solutions Innovantes Inc.; l’origine québécoise déclarée par la SQDC ne prouve pas, à elle seule, la culture de chaque lot dans les installations propres de C3.",
+      "Le lien juridique ou capitalistique entre C3 Industries et C3 Innovative Solutions/C3 Solutions Innovantes Inc. n’a pas été établi par les sources primaires consultées. Les entités et marques ne doivent pas être amalgamées sans preuve supplémentaire.",
+      "Les fiches Menu Dessert et Méchant Pétard sont rotatives. Elles ne permettent pas d’attribuer un cultivar fixe à tous les lots ni de reconstituer rétroactivement chaque rotation.",
+      "Les pages produits SQDC n’affichaient pas de date de publication ou d’historique d’inventaire dans l’extraction; leur indisponibilité observée le 27 octobre 2026 n’indique pas qu’elles n’ont jamais été vendues.",
+      "Les avis Reddit sont des témoignages publics auto-sélectionnés, parfois contradictoires; dates relatives et détails de lot peuvent être incomplets. Aucun nom d’utilisateur, handle ou profil n’est repris dans les observations.",
+      "Les rapports et communiqués SQDC cités publient des ventes provinciales agrégées. Aucune donnée consultée ne permet de distinguer ventes détaillant, ventes C3, ventes par SKU, valeur/volume des marques ou part de marché.",
+      "La recherche porte sur les pages accessibles et indexées consultées; l’accès aux résultats de recherche et aux pages de marques peut varier. Le site Fleurons a retourné une erreur d’adresse IP privée à l’extraction et n’a pas servi à confirmer les cultivars."
+    ],
+    "method_notes": [
+      "Priorité donnée aux pages officielles C3 et SQDC. Les fiches SQDC ont été ouvertes, pas seulement relevées via les extraits de recherche.",
+      "Le champ « génétique » est retenu comme confirmé seulement lorsqu’il est inscrit sur la fiche SQDC; aucune génétique n’est déduite d’un nom marketing ou d’un avis social.",
+      "Les avis sociaux sont paraphrasés sans identifiants personnels ni citations directes longues; chacun est explicitement qualifié de témoignage individuel.",
+      "Valeur de ventes, volume, prix moyen et part de marché sont traités distinctement. Les chiffres SQDC sont provinciaux et non attribués à C3.",
+      "Le lien éventuel entre croissance des ventes SQDC et produits C3 n’est pas inféré. Le facteur expliquant la progression provinciale est rapporté uniquement comme attribution déclarée par la SQDC."
+    ]
+  },
+  {
+    "id": "fleurons-fleur",
+    "name": "Produits Fleurons en fleur séchée vendus au Québec et leurs fiches",
+    "records": 13,
+    "record_types": {
+      "produit": 2,
+      "genetique": 3,
+      "avis": 3,
+      "vente": 2,
+      "transparence": 3
+    },
+    "limitations": [
+      "Les pages et filtres dynamiques de la SQDC ne se sont pas entièrement rendus à l’extraction : la catégorie ne renvoie pas sa liste de produits et la tentative de lire la fiche Menu Cantine a rendu une page d’erreur/incomplète. La chronologie secondaire est donc le seul élément exploitable ici pour cette référence historique.",
+      "La page du site officiel Fleurons n’a pas pu être lue par l’extracteur, et le navigateur public a échoué à ouvrir la page; les affirmations de marque ne sont donc pas prises comme preuve de catalogue actuelle.",
+      "L’indexation publique mélange parfois les lots, les périodes et les catégories. La rotation implique qu’une même fiche Menu Dessert ne désigne pas un cultivar unique dans le temps. Les mentions Mike Tai et Rainbow Pie sont des attributions datées à des lots ou posts précis, non un assortiment complet ni une déclaration officielle de génétique.",
+      "La base indépendante Succdata compte six produits Fleurons dont un seul fleur séchée dans son profil consulté, mais cette page n’affiche pas sa date de mise à jour. Elle classe Menu Dessert comme hybride, contrairement à la fiche SQDC consultée qui le classe Sativa; cette divergence n’est pas résolue.",
+      "La SQDC publie des chiffres agrégés mais pas de série vérifiable par marque/SKU dans les sources consultées. Les classements tiers peuvent être incomplets, mesurer des choses différentes et ne donnent pas nécessairement les ventes absolues; absence d’un palmarès n’équivaut pas à zéro vente.",
+      "Le site SuccursalesPro décrit une estimation indépendante fondée sur les mouvements d’inventaire et non les données officielles SQDC; certaines fonctions commerciales sont destinées aux abonnés. Le rang Reddit d’août 2026 ne doit pas être comparé directement à son palmarès actualisé en octobre.",
+      "Les avis sociaux sont un échantillon auto-sélectionné, parfois des opinions liées à des lots distincts. Ils ne mesurent ni la satisfaction générale ni la constance du produit. Les extraits inclus sont anonymisés et courts; aucun nom, pseudonyme ou profil n’est repris.",
+      "Les sources consultées ne permettent pas d’établir un lien corporatif entre C3 Industries (opérations américaines décrites sur son site) et C3 Solutions Innovantes Inc. (fournisseur québécois nommé par la SQDC). Ne pas fusionner les entités ou attribuer leurs génétiques sans preuve supplémentaire."
+    ],
+    "method_notes": [
+      "Priorité donnée aux fiches et rapports SQDC pour les spécifications et ventes officielles; C3.farm et les pages corporate ont servi à distinguer les entités. Les données secondaires et sociales sont explicitement étiquetées comme telles.",
+      "Les rangs, ventes en dollars, volumes en kilogrammes, nombres d’unités et parts de marché ne sont pas interchangeables. Aucun calcul de part de marché Fleurons n’a été fait, faute de ventes Fleurons/SKU et de dénominateur correspondant.",
+      "Aucune causalité entre cultivar, prix, disponibilité, avis ou rang de vente n’est avancée. Aucune évolution de vente n’est inférée à partir d’un seul rang hebdomadaire ou d’une seule période de rapport.",
+      "Pour la source des avis, seul un extrait bref anonyme est utilisé; le reste est paraphrasé sans identifier les auteurs. Les faits de génétique provenant d’avis ou d’emballages rapportés sont séparés des déclarations SQDC officielles."
+    ]
+  },
+  {
+    "id": "fleurons-autres",
+    "name": "Produits Fleurons en hash, concentrés, préroulés ou autres formats",
+    "records": 15,
+    "record_types": {
+      "produit": 6,
+      "genetique": 1,
+      "avis": 2,
+      "transparence": 3,
+      "vente": 2,
+      "evenement": 1
+    },
+    "limitations": [
+      "Les fiches produit SQDC sont dynamiques, ne montrent pas toujours les prix, et ont affiché « indisponible » lors de la consultation; ce statut ne prouve pas une rupture permanente ni l’arrêt du SKU.",
+      "Le contenu du catalogue SQDC donne fréquemment « En rotation » ou « Mélange » plutôt qu’un cultivar du lot. Les captures d’avis sociaux avec cultivar, teneur ou prix déclarés par un acheteur restent des déclarations individuelles, non des données lot certifiées.",
+      "La fiche SQDC Nuit du Maroc affiche 12 g dans le champ « Grammes de cannabis », tandis qu’un site tiers la présente à 3 g; la divergence reste non résolue et ces nombres ne doivent pas être traités comme équivalents sans valider l’emballage ou un certificat de lot.",
+      "Le palmarès Succdata/SuccursalesPro est tiers et sa méthode propriétaire s’appuie sur les changements d’inventaire observés, non sur un export de ventes SKU certifié. Il donne un rang et prix au gramme, pas la valeur totale ou le nombre d’unités vendues par SKU.",
+      "Les chiffres du rapport annuel SQDC sont provinciaux et agrégés tous produits/fournisseurs. Ils n’isolent ni Fleurons, ni C3, ni la valeur, le volume, la part de marché ou les unités vendues d’un produit particulier.",
+      "La page produit Best Bang for Your Bud consultée indique aucun avis sur Nuit du Maroc; l’absence d’avis sur cette page ne signifie pas absence de commentaires ailleurs. Reddit offre un échantillon auto-sélectionné, parfois une date relative seulement; quelques avis ne représentent pas les acheteurs.",
+      "C3 Industries présente sur sa page corporate un portefeuille de marques qui ne fait pas apparaître Fleurons dans le contenu consulté; les pages SQDC confirment le fournisseur C3 Solutions Innovantes Inc., mais les sources consultées n’établissent pas un registre complet des cultivars ou de leur provenance opérationnelle."
+    ],
+    "method_notes": [
+      "Les fiches produits officielles ont été ouvertes directement, pas seulement inférées depuis les extraits de recherche; les pages consultées portent le prompt d’âge mais leur contenu produit était extractible sans contournement.",
+      "J’ai privilégié les champs SQDC pour formats, fournisseur, cultivar/rotation et spécifications; les sources sociales servent uniquement à consigner des perceptions attribuées à des acheteurs, avec extraits courts anonymisés.",
+      "Les ventes sont ventilées explicitement : ventes SQDC agrégées en valeur ($) et volume (kg); estimation Succdata classée par valeur observée sur 30 jours; aucun chiffre d’unités ou de dollars SKU Fleurons n’a été trouvé dans les sources primaires consultées.",
+      "Les hausses agrégées et facteurs de contexte rapportés par SQDC ne sont pas présentés comme preuve de croissance des ventes Fleurons. La saison, l’ouverture de points de vente et la conversion sont des facteurs revendiqués par la SQDC à l’échelle du marché.",
+      "Les dates Reddit sont conservées selon l’affichage relatif visible et non converties en dates civiles certaines; les cultivateurs et cultivars tournants sont reliés au lot seulement lorsque les sources le disent."
+    ]
+  },
+  {
+    "id": "be-humble-catalogue",
+    "name": "Catalogue SQDC Be Humble / Fleurons : formats, cultivars, prix, avis et historique public",
+    "records": 15,
+    "record_types": {
+      "produit": 5,
+      "genetique": 4,
+      "avis": 3,
+      "vente": 2,
+      "transparence": 1
+    },
+    "limitations": [
+      "Les fiches produit SQDC consultées étaient indiquées indisponibles et ne montraient pas de prix. Le seul prix relevé est une déclaration publique d’utilisateur à 27,90 $ taxes incluses pour un lot de 33 Splitter empaqueté le 1er mai 2026; ce n’est ni une capture de caisse officielle ni un prix courant confirmé.",
+      "La fiche actuelle Hasch de Raisins indique 8 g, tandis que certains extraits ou posts plus anciens peuvent correspondre à d’autres lots ou versions. Ne pas fusionner automatiquement formats, prix, taux analytiques et avis issus de dates différentes.",
+      "Les fiches catalogue et pages de filtre SQDC peuvent être dynamiques, nécessitent l’âge/localisation pour disponibilité et n’exposent pas toujours les prix ou l’historique. L’extraction du filtre Cultivé Québec contenait des champs de modèle non résolus.",
+      "La page officielle Fleurons/Fleurons a été refusée par l’extracteur comme hôte résolvant vers une IP privée/bloquée. Le présent relevé s’appuie plutôt sur les fiches SQDC et la page de marques C3 effectivement consultées.",
+      "Reddit est public et les pages citées étaient lisibles sans contournement. Les dates d’anciens fils sont relatives (« 3y ago », « 4y ago ») dans l’extraction. Les commentaires sont auto-sélectionnés, les achats/lots ne sont pas tous vérifiables, et ils ne représentent pas l’ensemble des clients. Aucun nom, handle ou profil de contributeur n’est repris dans les observations.",
+      "Aucune source consultée ne ventile publiquement les ventes en valeur ou volume, parts de marché, commandes ou sell-through par SKU, marque Be Humble/Fleurons ou producteur C3. Les données annuelles SQDC sont provinciales et tous produits confondus; valeur, volume, prix moyen et transactions sont des mesures distinctes.",
+      "La recherche initiale n’a pas produit de série officielle exhaustive des anciens SKU Be Humble, rotations, historiques de prix, retraits ou périodes de disponibilité. Les mentions Tatanka et Jet Fuel Cake sont étiquetées comme traces communautaires, non comme catalogue SQDC confirmé."
+    ],
+    "method_notes": [
+      "Priorité donnée aux pages officielles SQDC et C3; les pages citées ont été ouvertes et lues, pas seulement déduites des extraits de recherche.",
+      "Le point de référence de collecte est le 27 octobre 2026. Les dates non affichées sur les fiches produit sont signalées comme telles; les dates Reddit relatives ne sont pas présentées comme des dates calendaires exactes.",
+      "Les champs « Cultivé Québec », fournisseur et génétique sont retranscrits comme déclarations de fiches SQDC; une déclaration d’un acheteur ou d’un contributeur sur Reddit est traitée distinctement et avec une confiance inférieure.",
+      "Les données annuelles SQDC sont rapportées au niveau provincial. Aucune variation de ventes Be Humble/Fleurons n’est inférée à partir de la tendance générale; les attributions de facteurs pour le total SQDC sont présentées comme explications avancées par la SQDC, non comme preuve indépendante de causalité pour ces marques.",
+      "Les citations directes de commentaires sont anonymisées et limitées à moins de 20 mots; les autres commentaires sont paraphrasés."
+    ]
+  },
+  {
+    "id": "avis-fleurons",
+    "name": "Avis et commentaires publics d’acheteurs sur Fleurons et Be Humble",
+    "records": 15,
+    "record_types": {
+      "avis": 14,
+      "transparence": 1
+    },
+    "limitations": [
+      "Les avis sont auto-sélectionnés par les personnes qui publient sur Reddit et ne mesurent ni la satisfaction moyenne ni la prévalence d’un défaut.",
+      "Dates des fils généralement affichées en âge relatif (‘1y ago’, etc.); l’extraction JSON Reddit a échoué, empêchant le relevé fiable des dates exactes.",
+      "Les lots, taux THC/terpènes, prix et génotypes cités dans les titres/commentaires sont des déclarations d’utilisateurs et n’ont pas été vérifiés auprès de la SQDC ou du producteur.",
+      "Le nom Fleurons sur un paquet ou dans un fil ne prouve pas que C3 a cultivé le lot. Des assertions de commentateurs sur l’origine/culture sont spéculatives et exclues comme faits.",
+      "Blazed est resté derrière un écran de vérification d’âge; la recherche n’a pas tenté de le contourner. Aucun forum public hors Reddit avec avis de produits exploitable n’a été confirmé.",
+      "Les fils sont publics mais leur indexation et leur accessibilité peuvent varier selon la région, l’âge, l’interface Reddit et les suppressions/modifications d’utilisateurs.",
+      "Aucune donnée de ventes ni lien causal avec un facteur externe n’est déduit de ces commentaires."
+    ],
+    "method_notes": [
+      "Recherche ciblée en français et en anglais sur Reddit et le web; pages Reddit elles-mêmes ouvertes et consultées, non seulement les extraits du moteur.",
+      "Enregistrement d’observations qualitatives par produit; avis contradictoires conservés séparément plutôt que fusionnés en note globale.",
+      "Extraits brefs en français, paraphrasés et sans nom d’utilisateur, poignée, coordonnées ni profil; chaque formulation reste rattachée au fil d’origine.",
+      "Ne pas traiter les récits d’achat indirect comme essais de consommation; signalement explicite lorsque l’observation est de seconde main.",
+      "Niveaux de confiance appliqués aux témoignages comme preuve de ce qui a été publié, non comme mesure objective de la qualité du cannabis."
+    ]
+  },
+  {
+    "id": "avis-be-humble",
+    "name": "Avis et commentaires publics d’acheteurs sur Be Humble — Reddit et forums",
+    "records": 9,
+    "record_types": {
+      "avis": 8,
+      "transparence": 1
+    },
+    "limitations": [
+      "Les résultats sont dominés par Reddit r/sqdc; la couverture des forums ailleurs sur le web n’est pas exhaustive et l’indexation peut omettre des fils ou commentaires.",
+      "Les avis sont spontanés et auto-sélectionnés. Aucune vérification indépendante d’achat n’a été effectuée; il est impossible d’en déduire la satisfaction moyenne des acheteurs.",
+      "Les dates relatives de Reddit et les métadonnées des résultats de recherche ne concordent pas toujours. Elles sont conservées avec leur forme affichée et aucune conversion contradictoire n’est présentée comme certaine.",
+      "Les commentaires peuvent être modifiés, supprimés ou masqués; une extraction consultable ne constitue pas une archive complète de toutes les réponses.",
+      "Les descriptions de goût, d’effet, de puissance, de fraîcheur, de prix et de comparaison sont des perceptions individuelles, non des mesures indépendantes.",
+      "Aucune donnée de ventes, de volume, de valeur ou de part de marché n’a été recherchée dans ce travail ciblé sur les avis publics; les fils ne permettent pas de déduire des ventes.",
+      "Les mentions de génétique, de fournisseur et de lot présentes dans les publications sociales ne sont pas confirmées par une fiche officielle dans ce jeu de données."
+    ],
+    "method_notes": [
+      "Les pages Reddit et BuzzNation ont été ouvertes et lues; les résultats ne reposent pas uniquement sur des extraits de moteur de recherche.",
+      "Les citations brèves restent sous la limite de 20 mots et aucun nom, pseudonyme, profil ou coordonnée d’utilisateur n’est reproduit.",
+      "Les avis favorables et défavorables sont conservés séparément lorsque les commentaires d’un même fil divergent.",
+      "Un commentaire selon lequel l’arôme ou la texture diffère entre des pots est consigné comme variation perçue seulement; aucune causalité n’est attribuée aux lots, au stockage ou au processus de production.",
+      "La page BuzzNation semble recouper un texte de critique aussi visible dans le fil Reddit Vanilla Sky; elle sert de source consultée, pas de corroboration indépendante ni de second acheteur.",
+      "Aucun SKU n’est présenté comme confirmé au-delà de ce que les auteurs des pages sociales déclarent."
+    ]
+  },
+  {
+    "id": "reseaux-sociaux",
+    "name": "Présence de commentaires publics sur Fleurons et Be Humble (C3) — plateformes sociales",
+    "records": 10,
+    "record_types": {
+      "transparence": 3,
+      "avis": 7
+    },
+    "limitations": [
+      "Reddit fournit ici les exemples les plus riches et directement consultables; l’échantillon est constitué de publications auto-sélectionnées et ne représente pas tous les acheteurs de la SQDC.",
+      "Instagram a bloqué l’accès direct à la publication vérifiée; l’indexation de recherche ne remplace pas la consultation des commentaires ni ne permet d’en confirmer le contenu.",
+      "Les recherches n’ont pas établi de page ou de commentaire Facebook ou TikTok pertinent et directement vérifiable sur les produits visés. Cela ne prouve pas qu’il n’en existe pas.",
+      "Les dates relatives affichées par Reddit (« il y a 1 an », « il y a 2 ans ») ne donnent pas de date exacte; elles sont conservées comme telles.",
+      "Les évaluations, taux, formats, prix, disponibilité et génétiques inscrits par les contributeurs n’ont pas tous été corroborés par une fiche SQDC officielle. Les commentaires ne valident ni cultivar génétique, ni lot, ni achat réel sauf lorsqu’un auteur se décrit comme acheteur.",
+      "Les vues et mentions J’aime YouTube sont des métriques d’engagement, non des unités vendues, une valeur de vente, des ventes provinciales ou une part de marché."
+    ],
+    "method_notes": [
+      "Priorité donnée aux sources primaires C3 consultées directement pour établir l’identité des marques, puis aux fils publics r/sqdc et à une page YouTube consultés directement.",
+      "Les opinions sociales sont paraphrasées et aucun nom, identifiant, handle, profil ou coordonnée de contributeur n’est reproduit.",
+      "Aucun contenu privé, espace nécessitant connexion, commentaire non visible ou mécanisme de contournement n’a été exploité.",
+      "Les avis ambivalents sont conservés comme tels; aucune causalité entre commentaires, produits et ventes n’est inférée.",
+      "Cette recherche porte sur la présence et la consultabilité de commentaires/avis publics, non sur le calcul des ventes ou la vérification complète des SKU."
+    ]
+  },
+  {
+    "id": "ventes-ontario",
+    "name": "Transparence des ventes de cannabis en Ontario et produits C3/Fleurons/Be Humble à la SQDC",
+    "records": 15,
+    "record_types": {
+      "vente": 2,
+      "transparence": 7,
+      "genetique": 2,
+      "produit": 2,
+      "avis": 2
+    },
+    "limitations": [
+      "Les rapports publics OCS donnent des agrégats provinciaux, régionaux ou par catégorie, et des classements partiels; aucun fichier ouvert de ventes par magasin, SKU et détaillant n’a été trouvé dans les sources consultées. Cela ne prouve pas qu’aucun accès non public ou demande d’accès à l’information ne soit possible.",
+      "Les données OCS de souscription sont réservées aux détaillants, producteurs ou abonnés selon le programme et les clauses affichées; certaines conditions du formulaire portent une date ancienne. Il faut confirmer les droits, la définition de la donnée et l’actualité des contrats avant toute collecte ou redistribution.",
+      "Les métriques par magasin offertes aux producteurs selon l’article de 2024 sont des commandes/expéditions en gros des produits propres, non des ventes finales au consommateur ni des données de concurrents.",
+      "La carte OCS/AGCO n’affiche que des plages moyennes de segment/région, et sa page porte une réserve d’usage confidentiel/réservé aux détaillants autorisés; elle ne permet pas de reconstruire les ventes d’un magasin identifié.",
+      "Statistique Canada offre une série annuelle par province et type, mais avec une périodicité, une granularité et des regroupements qui ne permettent pas une analyse par marque ou magasin.",
+      "Les pages SQDC consultées affichent un écran d’âge/autorisation, bien que les spécifications des produits soient visibles dans l’extraction; prix, stocks et disponibilité dépendent du lieu et évoluent. Les fiches ne donnent pas nécessairement une génétique fixe pour les références en rotation.",
+      "Les deux fils Reddit consultés étaient accessibles publiquement sans contournement; les avis sont auto-sélectionnés, subjectifs, non représentatifs et parfois accompagnés de détails de lot impossibles à vérifier indépendamment. Les plateformes ou commentaires non accessibles publiquement n’ont pas été collectés.",
+      "Le lien juridique entre C3 Industries et C3 Solutions Innovantes Inc. reste non établi par les sources primaires consultées; l’identité C3 dans les noms ne constitue pas une preuve de propriété commune."
+    ],
+    "method_notes": [
+      "Priorité aux pages officielles de l’OCS, de l’AGCO, de Statistique Canada, de la SQDC et de C3; les pages sources ont été consultées directement. Un article secondaire a servi seulement à décrire le programme producteur de 2024.",
+      "Distinguer ventes au détail (grammes/dollars vendus par les magasins), expéditions/commandes en gros de l’OCS, valeur en dollars, volume en grammes et prix moyen wholesale; ces mesures ne sont pas interchangeables.",
+      "Les taux +5,6 % volume et +3,5 % valeur sont des évolutions annuelles agrégées, pas des parts de marché; aucune causalité n’est attribuée à l’écart.",
+      "Les fiches SQDC identifient le fournisseur C3 Solutions Innovantes Inc.; elles ne prouvent pas, à elles seules, une filiation juridique avec C3 Industries. Les produits aux variétés en rotation sont conservés comme tels et non présentés comme génétiques confirmées.",
+      "Pour les avis, aucun nom, pseudonyme, coordonnée ou profil n’est reproduit. Les extraits anonymisés font moins de 20 mots; ils restent des opinions individuelles et ne sont pas présentés comme données de vente."
+    ]
+  },
+  {
+    "id": "ventes-sqdc-evenements",
+    "name": "Données publiques SQDC, périodes de vente et facteurs événementiels observables",
+    "records": 15,
+    "record_types": {
+      "vente": 5,
+      "evenement": 2,
+      "genetique": 2,
+      "produit": 4,
+      "avis": 1,
+      "transparence": 1
+    },
+    "limitations": [
+      "Les séries publiques trouvées sont par exercice ou trimestre; aucun chiffre public par SKU, marque, cultivar ou lot, et aucune série hebdomadaire/mensuelle des ventes Fleurons ou Be Humble n’a été vérifiée.",
+      "Les états financiers de la SQDC portent sur le détaillant; les estimations de part de marché provinciale sont distinctes et ne doivent pas être confondues avec sa part en dollars. La part de 56 % citée est une estimation en volume de 2022-2023.",
+      "Les fiches SQDC sont dynamiques, géolocalisées par code postal et affichent des stocks pouvant différer du magasin; les statuts d’indisponibilité relevés ne sont que des instantanés au 27 octobre 2026.",
+      "Les commentaires Reddit sont auto-sélectionnés, publics mais non représentatifs; la visibilité et l’indexation des plateformes varient, et un avis ne confirme ni vente, ni identité de cultivar/SKU, ni cultivation par C3.",
+      "Le site Santé Canada indique un tableau de 911 titulaires mais l’extraction publique consultée n’exposait par défaut que les 10 premières lignes; l’inscription spécifique de C3 n’a donc pas été confirmée dans ce rendu. Les fiches SQDC confirment C3 Solutions Innovantes Inc. comme fournisseur, ce qui ne signifie pas nécessairement que cette entité est le cultivateur de chaque produit/lot.",
+      "Le site officiel C3 Industries présente ses opérations multi-états aux États-Unis; il ne permet pas, dans la page consultée, de relier indépendamment l’entreprise mère aux ventes ou génétiques listées au Québec."
+    ],
+    "method_notes": [
+      "Priorité donnée aux publications officielles SQDC et aux fiches de produits consultées elles-mêmes; ouvertures de pages sources réalisées plutôt que de s’appuyer uniquement sur les extraits de recherche.",
+      "Chaque chiffre de vente est étiqueté par période, géographie/canal et unité. Dollars, kilogrammes, ventes détaillant et estimation du marché provincial restent séparés.",
+      "Pour les facteurs, l’observation factuelle et la causalité sont distinguées: quand la SQDC affirme qu’un élément a contribué à la croissance, le résultat le rapporte comme attribution de la SQDC et ne répartit pas l’effet causal.",
+      "Les champs non affichés (génétique précise des offres en rotation, ventes produit, prix historique, date de lancement/retirement et identité du producteur cultivant) ne sont pas imputés; aucun commentaire ni SKU incertain n’est présenté comme confirmé.",
+      "Les avis sociaux ont été résumés sans noms, handles, coordonnées ou profils; le champ d’extrait est une paraphrase anonymisée de moins de 20 mots, non une citation littérale."
+    ]
+  }
+]

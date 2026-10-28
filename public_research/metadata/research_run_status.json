@@ -1,0 +1,10 @@
+{
+  "job_id": "97626d925a27",
+  "status": "completed",
+  "failures": [],
+  "items": 10,
+  "records": 134,
+  "captured_from_result_file": "/home/ubuntu/.manus-jobs/97626d925a27/output.txt",
+  "source_result_sha256": "cd44b8cd192091d1705334d4817b144e43f06a4ec71adbc5c9cee8fe3e5bbdb3",
+  "captured_at_utc": "2026-10-28T03:07:00Z"
+}

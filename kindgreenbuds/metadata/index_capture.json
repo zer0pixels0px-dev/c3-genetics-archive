@@ -1,0 +1,13 @@
+{
+  "source_name": "Kind Green Buds",
+  "source_url": "https://kindgreenbuds.com/marijuana-strain-library/",
+  "final_url": "https://kindgreenbuds.com/marijuana-strain-library/",
+  "captured_at_utc": "2026-10-28T01:55:44.289035+00:00",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "b5bc89d263069042d9ef8d0aa25dd97af793a6605b0a1bee199be28e8c703928",
+  "capture_file": "raw_pages/index_source.html",
+  "scraper": "Scrapling Fetcher 0.5",
+  "robots_checked": "https://kindgreenbuds.com/robots.txt",
+  "robots_observation": "Robots disallows /wp-json/ and /?rest_route=; this page is not disallowed"
+}

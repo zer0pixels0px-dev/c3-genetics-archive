@@ -1,0 +1,286 @@
+{
+  "id": "fleurons-fleur",
+  "limitations": [
+    "Les pages et filtres dynamiques de la SQDC ne se sont pas entièrement rendus à l’extraction : la catégorie ne renvoie pas sa liste de produits et la tentative de lire la fiche Menu Cantine a rendu une page d’erreur/incomplète. La chronologie secondaire est donc le seul élément exploitable ici pour cette référence historique.",
+    "La page du site officiel Fleurons n’a pas pu être lue par l’extracteur, et le navigateur public a échoué à ouvrir la page; les affirmations de marque ne sont donc pas prises comme preuve de catalogue actuelle.",
+    "L’indexation publique mélange parfois les lots, les périodes et les catégories. La rotation implique qu’une même fiche Menu Dessert ne désigne pas un cultivar unique dans le temps. Les mentions Mike Tai et Rainbow Pie sont des attributions datées à des lots ou posts précis, non un assortiment complet ni une déclaration officielle de génétique.",
+    "La base indépendante Succdata compte six produits Fleurons dont un seul fleur séchée dans son profil consulté, mais cette page n’affiche pas sa date de mise à jour. Elle classe Menu Dessert comme hybride, contrairement à la fiche SQDC consultée qui le classe Sativa; cette divergence n’est pas résolue.",
+    "La SQDC publie des chiffres agrégés mais pas de série vérifiable par marque/SKU dans les sources consultées. Les classements tiers peuvent être incomplets, mesurer des choses différentes et ne donnent pas nécessairement les ventes absolues; absence d’un palmarès n’équivaut pas à zéro vente.",
+    "Le site SuccursalesPro décrit une estimation indépendante fondée sur les mouvements d’inventaire et non les données officielles SQDC; certaines fonctions commerciales sont destinées aux abonnés. Le rang Reddit d’août 2026 ne doit pas être comparé directement à son palmarès actualisé en octobre.",
+    "Les avis sociaux sont un échantillon auto-sélectionné, parfois des opinions liées à des lots distincts. Ils ne mesurent ni la satisfaction générale ni la constance du produit. Les extraits inclus sont anonymisés et courts; aucun nom, pseudonyme ou profil n’est repris.",
+    "Les sources consultées ne permettent pas d’établir un lien corporatif entre C3 Industries (opérations américaines décrites sur son site) et C3 Solutions Innovantes Inc. (fournisseur québécois nommé par la SQDC). Ne pas fusionner les entités ou attribuer leurs génétiques sans preuve supplémentaire."
+  ],
+  "method_notes": [
+    "Priorité donnée aux fiches et rapports SQDC pour les spécifications et ventes officielles; C3.farm et les pages corporate ont servi à distinguer les entités. Les données secondaires et sociales sont explicitement étiquetées comme telles.",
+    "Les rangs, ventes en dollars, volumes en kilogrammes, nombres d’unités et parts de marché ne sont pas interchangeables. Aucun calcul de part de marché Fleurons n’a été fait, faute de ventes Fleurons/SKU et de dénominateur correspondant.",
+    "Aucune causalité entre cultivar, prix, disponibilité, avis ou rang de vente n’est avancée. Aucune évolution de vente n’est inférée à partir d’un seul rang hebdomadaire ou d’une seule période de rapport.",
+    "Pour la source des avis, seul un extrait bref anonyme est utilisé; le reste est paraphrasé sans identifier les auteurs. Les faits de génétique provenant d’avis ou d’emballages rapportés sont séparés des déclarations SQDC officielles."
+  ],
+  "name": "Produits Fleurons en fleur séchée vendus au Québec et leurs fiches",
+  "records": [
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "La fiche SQDC décrit un produit Sativa, intensité de THC élevée, potentiellement avec du CBD; mention « Cultivé Québec »; fournisseur nommé : C3 Solutions Innovantes Inc. La page affichait la livraison et les disponibilités en succursale comme indisponibles au moment du relevé, état temporaire et géographique.",
+      "confidence": "Élevée pour les caractéristiques textuelles de la fiche; faible pour toute généralisation de disponibilité hors instantané.",
+      "date_or_period": "Fiche consultée lors du relevé du 2026-10-27; état de disponibilité instantané",
+      "format": "Fleurs séchées, 3,5 g",
+      "genetics_or_cultivar": "Variété en rotation; la fiche SQDC n’identifie pas de cultivar fixe.",
+      "geography": "Québec",
+      "product": "Menu Dessert",
+      "record_type": "produit",
+      "source_title": "Menu Dessert — SQDC",
+      "source_type": "Fiche produit officielle du détaillant provincial",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-menu-dessert/875429000401-P/875429000401"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "La fiche SQDC confirme que la variété est en rotation, mais ne nomme pas le cultivar. Des sources non officielles attribuent certains lots à Mike Tai et Rainbow Pie; ces cultivars ne doivent pas être présentés comme composition permanente ou cultivar actuellement disponible.",
+      "confidence": "Élevée pour le statut « en rotation »; moyenne à faible pour les attributions ponctuelles de cultivars.",
+      "date_or_period": "Variétés documentées en 2023–2026",
+      "genetics_or_cultivar": "Rotation — cultivars observés publiquement : Mike Tai; Rainbow Pie.",
+      "geography": "Québec",
+      "product": "Menu Dessert",
+      "record_type": "genetique",
+      "source_title": "Menu Dessert — SQDC",
+      "source_type": "Fiche SQDC officielle et sources secondaires/sociales distinctes",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-menu-dessert/875429000401-P/875429000401"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "arômes tropicaux marqués d’orange et d’épices",
+      "claim_or_observation": "Une critique datée décrit Mike Tai sous le nom Menu Dessert, relève limonène, bêta-caryophyllène et myrcène comme terpènes dominants, et dit que la souche est en rotation. Il s’agit d’une attribution secondaire à un cultivar/lot, non d’une fiche génétique actuelle du producteur.",
+      "confidence": "Moyenne pour ce que rapporte l’auteur et les dates visibles; faible à moyenne comme preuve du cultivar réel d’un lot précis.",
+      "date_or_period": "Article du 2023-11-12; mise à jour indiquant un retour temporaire le 2024-10-07",
+      "genetics_or_cultivar": "Mike Tai; l’article donne Mai Tai (Maui Waui × Tutti Frutti) × Mike Larry (Gelato #45 × Larry).",
+      "geography": "Québec / SQDC",
+      "product": "Menu Dessert",
+      "record_type": "genetique",
+      "sentiment": "Critique favorable, témoignage individuel",
+      "source_date": "2023-11-12; mises à jour 2024-10-07 et 2024-10-10",
+      "source_title": "Mike Tai par Fleurons — BuzzworthyBuds",
+      "source_type": "Critique indépendante de produit",
+      "source_url": "https://buzzworthybuds.ca/fr/menu-dessert-mike-tai-fleurons-sqdc/"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "Une publication publique Reddit étiquetée « review » présente Rainbow Pie comme une rotation Menu Dessert et rapporte parenté, 29,86 % THC, terpènes totaux 3 % et lot daté. Ce sont des informations affichées/transcrites dans un post d’utilisateur, pas une confirmation de fiche SQDC ni un certificat d’analyse vérifié indépendamment.",
+      "confidence": "Faible à moyenne; informations auto-rapportées, lot précis, non confirmées par source officielle consultée.",
+      "date_or_period": "Lot daté 2026-07-16; publication visible comme datant d’environ trois mois au relevé",
+      "format": "Lot de 3,5 g; publication indique emballage du 2026-07-16",
+      "genetics_or_cultivar": "Rainbow Pie; parenté annoncée : Grand Blueberry Pie × Zkittlez.",
+      "geography": "Québec",
+      "product": "Menu Dessert",
+      "record_type": "genetique",
+      "source_title": "Rainbow Pie • menu dessert",
+      "source_type": "Publication/critique publique Reddit; témoignage d’acheteur",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1vd9x1j/rainbow_pie_menu_dessert/"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "La chronologie WeedCrawler classe Menu Cantine comme fleur séchée Indica et Menu Dessert comme fleur séchée Sativa, tous deux « en rotation », dans une entrée datée du 12 septembre 2022. Le lien SQDC associé à Menu Cantine n’a pas livré sa fiche dans l’extraction consultée; statut actuel et format non confirmés.",
+      "confidence": "Moyenne pour la présence dans cette chronologie; faible pour le statut commercial actuel et les spécifications non extraites.",
+      "date_or_period": "Entrée de chronologie : 2022-09-12",
+      "format": "Fleurs séchées; format non établi par l’extrait consulté",
+      "genetics_or_cultivar": "Variété en rotation selon la chronologie tierce",
+      "geography": "Québec",
+      "product": "Menu Cantine",
+      "record_type": "produit",
+      "source_title": "Ligne du temps des nouveaux produits — WeedCrawler",
+      "source_type": "Chronologie secondaire de produits renvoyant aux fiches SQDC",
+      "source_url": "https://quebec.weedcrawler.ca/products/timeline"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "Les buds ont conservé une grande humidité, idéal pour fumer avec facilité.",
+      "claim_or_observation": "L’auteur rapporte un avis favorable sur odeur, goût et combustion et décrit un lot acheté. Cela documente une expérience singulière, pas une note représentative de l’ensemble des acheteurs.",
+      "confidence": "Moyenne pour l’existence du témoignage et sa date; faible comme indicateur général de qualité ou de satisfaction.",
+      "date_or_period": "Publication Reddit datée dans le contenu du 2024-09-19",
+      "genetics_or_cultivar": "Mike Tai",
+      "geography": "Québec; l’auteur indique un achat à Laval dans un commentaire public",
+      "product": "Menu Dessert — lot Mike Tai",
+      "record_type": "avis",
+      "sentiment": "Favorable, témoignage individuel",
+      "source_date": "2024-09-19 (date inscrite dans le contenu)",
+      "source_title": "Septembre 2024 — Mai Tai × Mike Larry / Mike Tai, Menu Dessert",
+      "source_type": "Publication publique Reddit; critique d’acheteur",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1fwl61e/sept19_2913mai_tai_x_mike_larrymike_tai30_t3rps/"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "Belle combustion, profil pâtisseries et baies, légèrement gassy.",
+      "claim_or_observation": "Commentaires publics contrastés : plusieurs éloges du profil pâtisserie/baies et de la combustion; d’autres signalent une fleur sèche et une odeur faible. Les commentaires portent sur des expériences individuelles, sans preuve d’identité de lot commune.",
+      "confidence": "Moyenne pour les opinions publiées; faible pour leur représentativité.",
+      "date_or_period": "Avril 2026 selon le titre de la discussion",
+      "genetics_or_cultivar": "Purple Churro (attribution du titre de discussion)",
+      "geography": "Québec",
+      "product": "Menu Dessert — Purple Churro",
+      "record_type": "avis",
+      "sentiment": "Mitigé",
+      "source_title": "Menu Dessert (Purple Churro) — Fleurons — Avril 2026",
+      "source_type": "Discussion publique Reddit; commentaires d’acheteurs",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1sqoi62/menu_dessert_purple_churro_fleurons_avril_2026/"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "arômes tropicaux marqués d’orange et d’épices",
+      "claim_or_observation": "Une critique indépendante donne des impressions favorables sur les arômes, la combustion et les effets ressentis; elle attribue des scores élevés à son expérience. Ces scores ne sont ni un avis SQDC ni un échantillon représentatif d’acheteurs.",
+      "confidence": "Moyenne pour le contenu de la critique; faible pour sa représentativité.",
+      "date_or_period": "2023-11-12, mise à jour 2024-10",
+      "genetics_or_cultivar": "Mike Tai",
+      "geography": "Québec",
+      "product": "Menu Dessert — Mike Tai",
+      "record_type": "avis",
+      "sentiment": "Favorable, critique individuelle",
+      "source_date": "2023-11-12; mises à jour 2024-10-07 et 2024-10-10",
+      "source_title": "Mike Tai par Fleurons — BuzzworthyBuds",
+      "source_type": "Critique indépendante de produit",
+      "source_url": "https://buzzworthybuds.ca/fr/menu-dessert-mike-tai-fleurons-sqdc/"
+    },
+    {
+      "brand": "SQDC (ensemble du détaillant; non spécifique à Fleurons)",
+      "claim_or_observation": "Exercice clos le 2025-03-29 : ventes totales de 741,5 M$ et volume de 149 223 kg; ventes en fleurs séchées de 597,632 M$. Les ventes globales ont crû de 12,0 % en valeur et le volume de 21,8 % sur l’exercice précédent. Ces mesures sont respectivement valeur et volume; elles ne donnent ni ventes Fleurons, ni ventes par SKU, ni part de marché Fleurons.",
+      "confidence": "Élevée pour les valeurs agrégées et les unités indiquées.",
+      "date_or_period": "Exercice financier 2024-2025, clos le 2025-03-29",
+      "geography": "Québec, ensemble SQDC",
+      "record_type": "vente",
+      "source_date": "Publié en 2025; période financière finissant le 2025-03-29",
+      "source_title": "Rapport annuel 2025 — SQDC",
+      "source_type": "Rapport annuel officiel SQDC",
+      "source_url": "https://www.sqdc.ca/media/066d38f3-9664-4e0e-850d-fa1cbae62467/O9oNOw/Olive/Acc%C3%A8s%20info/Publications/Rapport%20annuel_2025_SQDC.pdf"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "Le palmarès hebdomadaire Reddit place Menu Dessert au rang 7 des fleurs séchées 3,5 g dans la tranche de prix 25,01–30 $ pour la semaine du 17 au 23 août 2026. Aucun nombre d’unités, chiffre d’affaires, valeur absolue ou part de marché n’est publié dans le post consulté; c’est un rang rapporté par une source secondaire, pas une donnée officielle SQDC.",
+      "confidence": "Faible à moyenne; rang secondaire rapporté, méthode et chiffres bruts non visibles dans le post.",
+      "date_or_period": "2026-08-17 au 2026-08-23",
+      "format": "Fleurs séchées 3,5 g; tranche de prix 25,01–30 $ dans le palmarès",
+      "geography": "Québec; ventes SQDC rapportées par un palmarès tiers",
+      "product": "Menu Dessert",
+      "record_type": "vente",
+      "source_date": "2026-08-28 (publication Reddit affichée)",
+      "source_title": "Meilleurs vendeurs — semaine du 17 au 23 août 2026",
+      "source_type": "Palmarès public Reddit renvoyant au suivi WeedCrawler",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1vx9kjm/meilleurs_vendeurs_semaine_du_17_au_23_ao%C3%BBt_2026/"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "Le profil indépendant Succdata/BranchesPro énumère six produits Fleurons, dont Menu Dessert comme seule fleur séchée de 3,5 g dans son tableau; il signale trois références « Québec » sur six. La page n’est pas une source SQDC et son contenu n’est pas daté dans la vue consultée. Le même profil classe Menu Dessert comme hybride, alors que la fiche SQDC consultée le classe Sativa : divergence à conserver comme telle, possiblement liée à une fiche tierce ou à la rotation, sans résolution probante.",
+      "confidence": "Moyenne pour ce que la base publie; faible à moyenne pour l’exhaustivité et l’actualité du catalogue.",
+      "date_or_period": "Page consultée lors du relevé 2026-10-27; date de mise à jour non affichée",
+      "geography": "Québec",
+      "product": "Portefeuille Fleurons au Québec",
+      "record_type": "transparence",
+      "source_title": "Fleurons — BranchesPro / Succdata",
+      "source_type": "Base de données indépendante de marché",
+      "source_url": "https://succdata.ca/brands/fleurons"
+    },
+    {
+      "claim_or_observation": "La source indépendante SuccursalesPro indique que le détaillant ne publie pas ses ventes SKU et estime les ventes en succursale à partir des baisses de stocks observées plusieurs fois par jour, en excluant les réapprovisionnements. Son classement du 2026-10-26 couvre 30 jours et 114 succursales, classe par valeur de ventes; ce sont des estimations de volume/dollars tierces, non des données officielles et non une part de marché. Le palmarès Reddit d’août n’est pas directement comparable à cette série.",
+      "confidence": "Moyenne pour la méthodologie déclarée; les données de ventes elles-mêmes restent des estimations indépendantes.",
+      "date_or_period": "Méthodologie et instantané indiqués au 2026-10-26",
+      "geography": "Québec, 114 succursales observées selon la source",
+      "record_type": "transparence",
+      "source_title": "Quels produits de cannabis se vendent le plus au Québec ? — SuccursalesPro",
+      "source_type": "Méthodologie publiée par un fournisseur indépendant d’analytique",
+      "source_url": "https://succdata.ca/meilleurs-vendeurs"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "La fiche SQDC nomme C3 Solutions Innovantes Inc. comme fournisseur; le site C3.farm se présente comme producteur canadien autorisé et développe la marque C3 Solutions Innovantes. Le site corporatif C3 Industries consulté situe ses opérations dans sept États américains et ne documente pas dans la page l’identité juridique ou le lien capitalistique avec C3 Solutions Innovantes. Ne pas traiter automatiquement ces deux entités comme identiques ni attribuer à C3 Industries les génétiques cultivées au Québec sans source corporative explicite.",
+      "confidence": "Élevée pour l’identité du fournisseur sur SQDC et les descriptions propres à chaque site; relation entre entités non établie.",
+      "date_or_period": "Pages corporate consultées en octobre 2026; C3.farm indique une publication le 2026-05-15",
+      "geography": "Québec et États-Unis",
+      "record_type": "transparence",
+      "source_title": "C3 Solutions Innovantes — C3.farm; About us — C3 Industries; fiche SQDC Menu Dessert",
+      "source_type": "Sources corporate et fiche officielle détaillant",
+      "source_url": "https://www.c3.farm/fr/"
+    }
+  ],
+  "sources": [
+    {
+      "source_type": "Primaire — fiche détaillant SQDC",
+      "title": "Menu Dessert — SQDC",
+      "url": "https://www.sqdc.ca/fr-CA/p-menu-dessert/875429000401-P/875429000401",
+      "what_it_supports": "Nom du produit, SKU, marque, catégorie Sativa, intensité THC, statut variétal en rotation, fournisseur, mention Cultivé Québec, format 3,5 g et instantané de disponibilité."
+    },
+    {
+      "source_type": "Primaire — catégorie du détaillant",
+      "title": "Fleurs de cannabis séchées ou cocottes de pot — SQDC",
+      "url": "https://www.sqdc.ca/fr-CA/cannabis-seche/fleurs-sechees",
+      "what_it_supports": "Contexte de gamme, formats proposés, origine auprès de producteurs autorisés au Canada et caractère variable de la disponibilité; l’extraction ne restitue pas la liste dynamique des fiches."
+    },
+    {
+      "source_type": "Primaire — rapport annuel",
+      "title": "Rapport annuel 2025 — SQDC",
+      "url": "https://www.sqdc.ca/media/066d38f3-9664-4e0e-850d-fa1cbae62467/O9oNOw/Olive/Acc%C3%A8s%20info/Publications/Rapport%20annuel_2025_SQDC.pdf",
+      "what_it_supports": "Ventes SQDC agrégées en valeur et volume, ventes par catégorie fleurs séchées et périodes financières 2024-2025 et 2023-2024."
+    },
+    {
+      "source_type": "Primaire — communiqué SQDC",
+      "title": "La SQDC dégage un résultat global de 118,0 M$ pour l’exercice 2024-2025",
+      "url": "https://www.sqdc.ca/fr-CA/a-propos/M%C3%A9dias/2025/06/04/Un-r%C3%A9sultat-global-de-1180-M",
+      "what_it_supports": "Chiffres agrégés SQDC, fournisseurs et offre cultivée au Québec, contexte du marché et périodes des ventes."
+    },
+    {
+      "source_type": "Secondaire — critique de produit",
+      "title": "Mike Tai par Fleurons — BuzzworthyBuds",
+      "url": "https://buzzworthybuds.ca/fr/menu-dessert-mike-tai-fleurons-sqdc/",
+      "what_it_supports": "Génétique décrite et appréciations de l’auteur sur le lot Mike Tai vendu sous Menu Dessert; mises à jour et rotation rapportées."
+    },
+    {
+      "source_type": "Plateforme sociale publique — publication d’acheteur",
+      "title": "Rainbow Pie • menu dessert",
+      "url": "https://www.reddit.com/r/sqdc/comments/1vd9x1j/rainbow_pie_menu_dessert/",
+      "what_it_supports": "Attribution utilisateur de Rainbow Pie à la rotation Menu Dessert, parenté, lot et informations d’emballage auto-rapportées, plus impressions de consommateur."
+    },
+    {
+      "source_type": "Plateforme sociale publique — discussion d’acheteurs",
+      "title": "Menu Dessert (Purple Churro) — Fleurons — Avril 2026",
+      "url": "https://www.reddit.com/r/sqdc/comments/1sqoi62/menu_dessert_purple_churro_fleurons_avril_2026/",
+      "what_it_supports": "Exemples anonymisés d’opinions contrastées sur un lot Purple Churro : profil sensoriel, combustion, humidité et arôme."
+    },
+    {
+      "source_type": "Plateforme sociale publique — publication/critique d’acheteur",
+      "title": "Septembre 2024 — Mai Tai × Mike Larry / Mike Tai, Menu Dessert",
+      "url": "https://www.reddit.com/r/sqdc/comments/1fwl61e/sept19_2913mai_tai_x_mike_larrymike_tai30_t3rps/",
+      "what_it_supports": "Témoignage sur un lot Mike Tai daté 2024-09-19 et impressions sensorielles d’un acheteur."
+    },
+    {
+      "source_type": "Secondaire — chronologie de catalogue",
+      "title": "Ligne du temps des nouveaux produits — WeedCrawler",
+      "url": "https://quebec.weedcrawler.ca/products/timeline",
+      "what_it_supports": "Entrée datée 2022-09-12 listant Menu Dessert et Menu Cantine Fleurons comme fleurs séchées en rotation, et liens vers les fiches SQDC."
+    },
+    {
+      "source_type": "Plateforme sociale publique — palmarès reposté",
+      "title": "Meilleurs vendeurs — semaine du 17 au 23 août 2026",
+      "url": "https://www.reddit.com/r/sqdc/comments/1vx9kjm/meilleurs_vendeurs_semaine_du_17_au_23_ao%C3%BBt_2026/",
+      "what_it_supports": "Rang hebdomadaire public rapporté de Menu Dessert dans la catégorie fleurs séchées 3,5 g et liens du contributeur vers WeedCrawler."
+    },
+    {
+      "source_type": "Secondaire — base de données indépendante",
+      "title": "Fleurons — BranchesPro / Succdata",
+      "url": "https://succdata.ca/brands/fleurons",
+      "what_it_supports": "Portefeuille de six produits associé à Fleurons, fournisseur déclaré, format et classification tierce des références."
+    },
+    {
+      "source_type": "Secondaire — analytique indépendante et méthodologie publiée",
+      "title": "Quels produits de cannabis se vendent le plus au Québec ? — SuccursalesPro",
+      "url": "https://succdata.ca/meilleurs-vendeurs",
+      "what_it_supports": "Classement par valeur observée estimée, période et couverture en succursales; la page précise que la SQDC ne publie pas ses ventes détaillées et décrit l’estimation par inventaire."
+    },
+    {
+      "source_type": "Primaire — site corporate du producteur canadien",
+      "title": "C3 Solutions Innovantes — C3.farm",
+      "url": "https://www.c3.farm/fr/",
+      "what_it_supports": "Présentation de C3 Solutions Innovantes et statut de producteur canadien autorisé revendiqué par l’entreprise."
+    },
+    {
+      "source_type": "Primaire — site corporate",
+      "title": "About us — C3 Industries",
+      "url": "https://c3industries.com/about/",
+      "what_it_supports": "Présentation de C3 Industries, ses marques et marchés d’exploitation américains déclarés; la page consultée ne documente pas de lien avec C3 Solutions Innovantes."
+    }
+  ],
+  "summary": "Fiche SQDC confirmée consultée : Menu Dessert, 3,5 g, classé Sativa, intensité THC élevée, mention Cultivé Québec et fournisseur C3 Solutions Innovantes Inc.; la fiche indique explicitement une variété « en rotation » et la disponibilité affichée était indisponible lors du relevé. Des sources secondaires documentent des lots/cultivars distincts (Mike Tai, Rainbow Pie), sans démontrer qu’ils sont actuellement en vente. Une chronologie tierce montre Menu Cantine comme fleur séchée en 2022, mais une fiche actuelle n’a pas pu être confirmée. Les rapports SQDC ne publient pas de ventes Fleurons par SKU; seuls des classements tiers et des totaux provinciaux sont accessibles dans les sources consultées. Aucun changement de ventes ni lien causal n’est déduit."
+}

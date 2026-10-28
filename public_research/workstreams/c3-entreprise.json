@@ -1,0 +1,332 @@
+{
+  "id": "c3-entreprise",
+  "limitations": [
+    "C3 Industries (Michigan) et C3 Innovative Solutions Inc. (Québec) ont des noms proches, mais aucune source primaire consultée n’établit leur lien juridique. Ne pas attribuer les marques canadiennes à C3 Industries sans preuve additionnelle.",
+    "Le site public de Fleurons (fleurons.quebec) n’a pas pu être extrait par l’outil de consultation en raison d’un blocage d’accès réseau; les informations sur les SKU Fleurons proviennent des fiches SQDC et la liste des marques du site officiel c3.farm.",
+    "Les fiches SQDC présentent une vérification d’âge et du contenu dynamique. Les pages de produits ont livré des champs descriptifs, mais la disponibilité affichée est temporaire et peut différer selon le code postal et les succursales.",
+    "Les deux fils Reddit étaient accessibles publiquement sans collecte de profils; les dates étaient relatives et les avis sont auto-sélectionnés, non représentatifs. Les extraits courts ne permettent pas de généraliser satisfaction ou qualité.",
+    "Les rapports financiers SQDC fournissent des totaux par réseau et grandes catégories, pas des ventes par SKU, producteur, marque ou génétique. Ils ne suffisent donc pas à calculer ventes, croissance ou part de marché de Fleurons/Be Humble.",
+    "La page OCS consultée affichait un produit Be Humble en rupture de stock. Cette observation de catalogue ne prouve pas des ventes effectives ni une disponibilité actuelle.",
+    "Aucun commentaire acheteur du site SQDC n’était disponible dans les pages consultées; les avis recueillis proviennent de discussions Reddit, avec couverture partielle des plateformes publiques."
+  ],
+  "method_notes": [
+    "Priorité donnée aux pages primaires de Santé Canada, C3, SQDC et OCS; les commentaires consommateurs sont distingués des données de ventes et des descriptions promotionnelles.",
+    "Un SKU est traité comme confirmé uniquement quand une fiche officielle SQDC ou OCS consultée le documente. Les produits en rotation sont signalés sans leur attribuer une génétique non publiée.",
+    "Les ventes 2024-2025 et 2025-2026 sont les ventes du détaillant SQDC; elles ne sont ni le marché québécois total ni les ventes de C3. Les parts de marché de la marque ne sont pas calculées.",
+    "Pour les facteurs explicatifs, l’observation d’interruption des livraisons et ses effets sont attribués au rapport SQDC; la hausse 2025-2026 et ses facteurs sont présentés comme l’explication déclarée par la SQDC, et non comme une causalité indépendante démontrée.",
+    "Confiance élevée pour les champs de licence et les fiches officielles; moyenne pour les déclarations d’entreprise non corroborées; faible pour toute extrapolation à partir de commentaires sociaux."
+  ],
+  "name": "C3 Industries / C3 Innovative Solutions Inc.",
+  "records": [
+    {
+      "brand": "",
+      "claim_or_observation": "C3 Industries se présente comme une société basée à Ann Arbor, Michigan, avec Cloud Cover Cannabis, Galactic Cannabis, Habitat Cannabis et le réseau de détail High Profile; sa page décrit des activités de détail dans des États américains et ne mentionne pas d’opérations canadiennes. C’est le descriptif de l’entreprise, pas une vérification indépendante de toutes ses activités.",
+      "confidence": "Élevée pour les déclarations du site; moyenne pour l’exhaustivité du périmètre opérationnel",
+      "date_or_period": "Page consultée le 27 octobre 2026; page datée du 15 octobre 2026",
+      "format": "Entreprise multi-États, intégrée verticalement",
+      "genetics_or_cultivar": "",
+      "geography": "États-Unis; siège déclaré à Ann Arbor, Michigan",
+      "product": "",
+      "record_type": "entreprise",
+      "source_date": "15 octobre 2026 (date de page affichée)",
+      "source_title": "About us — C3 Industries",
+      "source_type": "Site officiel d’entreprise",
+      "source_url": "https://c3industries.com/about/"
+    },
+    {
+      "brand": "",
+      "claim_or_observation": "Le registre de Santé Canada identifie C3 Innovative Solutions Inc. (QC), licenciée pour vente à des fins médicales, transformation et culture; classes autorisées indiquées : plantes/graines, cannabis séché/frais, extraits, comestibles et topiques. Date initiale de délivrance indiquée : 2018-01-12. Cela établit la licence de cette entité canadienne, pas une licence de C3 Industries (Michigan).",
+      "confidence": "Élevée",
+      "date_or_period": "Licence initiale : 12 janvier 2018; registre consulté le 27 octobre 2026",
+      "format": "Titulaire de licence fédérale",
+      "genetics_or_cultivar": "",
+      "geography": "Québec, Canada",
+      "product": "",
+      "record_type": "transparence",
+      "source_date": "Page consultée le 27 octobre 2026; liste mise à jour le 26 octobre 2026 selon la page générale",
+      "source_title": "Cultivateurs, transformateurs et vendeurs autorisés de cannabis sous la Loi sur le cannabis",
+      "source_type": "Registre officiel — Santé Canada",
+      "source_url": "https://www.canada.ca/fr/sante-canada/services/drogues-medicaments/cannabis/titulaires-licences-demandeurs-industrie/cultivateurs-transformateurs-vendeurs-autorises.html/1000?wbdisable=true"
+    },
+    {
+      "brand": "Fleurons (nom affiché par la SQDC; le site C3 emploie « Fleuron ») ; Be Humble. ; Vibe",
+      "claim_or_observation": "Le site officiel de C3 Innovative Solutions présente Be Humble, Fleuron et Vibe comme ses marques de produits. Les fiches SQDC consultées utilisent l’orthographe « Fleurons » et attribuent des produits Fleurons et Be Humble au fournisseur C3 Solutions Innovantes Inc. Le site américain C3 Industries présente un portefeuille différent. Le lien juridique entre les deux sociétés n’est pas établi par ces pages.",
+      "confidence": "Élevée pour le portefeuille revendiqué par C3 Innovative Solutions; moyenne pour l’interprétation de l’orthographe de marque",
+      "date_or_period": "Page C3 publiée le 15 mai 2026; fiches SQDC consultées le 27 octobre 2026",
+      "format": "Portefeuille de marques",
+      "genetics_or_cultivar": "",
+      "geography": "Canada; marque Fleurons orientée Québec",
+      "product": "",
+      "record_type": "transparence",
+      "source_date": "15 mai 2026 (date publiée par le site)",
+      "source_title": "House of Brands — C3 Innovative Solutions",
+      "source_type": "Site officiel du producteur et détaillant public",
+      "source_url": "https://www.c3.farm/brands"
+    },
+    {
+      "brand": "C3 Industries; C3 Innovative Solutions",
+      "claim_or_observation": "Les sources primaires consultées ne permettent pas de confirmer que la société américaine C3 Industries et le producteur canadien C3 Innovative Solutions Inc. sont affiliés, détenus par les mêmes personnes ou une seule entité. À traiter comme deux personnes morales distinctes dans l’analyse jusqu’à preuve documentaire du contraire; l’absence de lien trouvé n’est pas une preuve qu’aucun lien n’existe.",
+      "confidence": "Moyenne",
+      "date_or_period": "Recherche effectuée le 27 octobre 2026",
+      "format": "Lien d’entreprise non confirmé",
+      "genetics_or_cultivar": "",
+      "geography": "États-Unis et Canada",
+      "product": "",
+      "record_type": "transparence",
+      "source_date": "C3 Industries : 15 octobre 2026; C3 Innovative Solutions : 15 mai 2026",
+      "source_title": "About us — C3 Industries; C3 Innovative Solutions",
+      "source_type": "Comparaison de pages officielles d’entreprise",
+      "source_url": "https://c3industries.com/about/"
+    },
+    {
+      "brand": "Be Humble.",
+      "claim_or_observation": "La fiche OCS identifie C3 Innovative Solutions Inc. comme producteur autorisé et Be Humble comme marque; la province de culture affichée est le Québec. La fiche du détaillant ontarien affichait « rupture de stock » lors de la consultation : inscription au catalogue ne signifie pas ventes confirmées ni disponibilité actuelle.",
+      "confidence": "Élevée pour les champs déclarés sur la fiche; moyenne pour la disponibilité, variable dans le temps",
+      "date_or_period": "Fiche consultée le 27 octobre 2026; date de publication non indiquée",
+      "format": "3 × 0,6 g; 36–44 % THC; cultivé au Québec",
+      "genetics_or_cultivar": "Zlush Runtz",
+      "geography": "Ontario (catalogue OCS); culture déclarée au Québec",
+      "product": "Zlush Runtz infusé de résine vivante",
+      "record_type": "produit",
+      "source_date": "Non indiquée; consultée le 27 octobre 2026",
+      "source_title": "Zlush Runtz infusé de résine vivante — Ontario Cannabis Store",
+      "source_type": "Fiche produit d’un détaillant provincial officiel",
+      "source_url": "https://ocs.ca/products/zlush-runtz-infuse-de-resine-vivante-be-humble-zlush-runtz-fr"
+    },
+    {
+      "brand": "Be Humble.",
+      "claim_or_observation": "La fiche SQDC indique explicitement le croisement, le fournisseur C3 Solutions Innovantes Inc. et la caractéristique « Cultivé Québec ». La fiche affichait une indisponibilité au moment de la consultation; cet état de stock est un instantané, non une preuve de retrait permanent.",
+      "confidence": "Élevée",
+      "date_or_period": "Fiche consultée le 27 octobre 2026",
+      "format": "Fleur séchée, 3,5 g; hybride à dominance indica; THC 250–300 mg/g; SKU SQDC 875429001293",
+      "genetics_or_cultivar": "Gelato #33 × Atom Splitter",
+      "geography": "Québec",
+      "product": "33 Splitter",
+      "record_type": "genetique",
+      "source_date": "Non indiquée sur la fiche; consultée le 27 octobre 2026",
+      "source_title": "33 Splitter — SQDC",
+      "source_type": "Fiche produit SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-33-splitter/875429001293-P/875429001293"
+    },
+    {
+      "brand": "Be Humble.",
+      "claim_or_observation": "La fiche SQDC attribue le produit à C3 Solutions Innovantes Inc., l’identifie comme Be Humble et le marque « Cultivé Québec ». Elle décrit une dominance sativa et un profil d’arômes fruité, sucré et floral; les effets sont des indications du détaillant, pas un résultat d’essai indépendant.",
+      "confidence": "Élevée pour les champs de la fiche SQDC",
+      "date_or_period": "Fiche consultée le 27 octobre 2026",
+      "format": "Haschich, 8 g; fabrication à l’eau glacée; SKU SQDC 875429000838",
+      "genetics_or_cultivar": "Variété Grape Galena; génétique (OGKB × Lost Sailor) × Platinum Kush",
+      "geography": "Québec",
+      "product": "Hasch de Raisins",
+      "record_type": "genetique",
+      "source_date": "Non indiquée sur la fiche; consultée le 27 octobre 2026",
+      "source_title": "Hasch de Raisins — SQDC",
+      "source_type": "Fiche produit SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-hasch-de-raisins/875429000838-P/875429000838"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "La SQDC identifie C3 Solutions Innovantes Inc. comme fournisseur et indique « Cultivé Québec ». C’est une fiche produit confirmée, mais aucune génétique spécifique de lot ne peut être déduite du nom « Nuit du Maroc » puisque la variété est explicitement « en rotation ».",
+      "confidence": "Élevée pour le produit et son fournisseur; élevée quant à l’absence de génétique publiée sur la fiche",
+      "date_or_period": "Fiche consultée le 27 octobre 2026",
+      "format": "Haschich, 12 g; tamisage à sec; SKU SQDC 875429001194",
+      "genetics_or_cultivar": "Variété indiquée : en rotation; la fiche ne précise pas de génétique",
+      "geography": "Québec",
+      "product": "Nuit du Maroc",
+      "record_type": "produit",
+      "source_date": "Non indiquée sur la fiche; consultée le 27 octobre 2026",
+      "source_title": "Nuit du Maroc — SQDC",
+      "source_type": "Fiche produit SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-nuit-du-maroc/875429001194-P/875429001194"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "La fiche SQDC désigne C3 Solutions Innovantes Inc. comme fournisseur et « Cultivé Québec ». Le nom de cultivar varie avec la rotation; la fiche ne permet donc pas d’associer ce SKU à une génétique unique.",
+      "confidence": "Élevée",
+      "date_or_period": "Fiche consultée le 27 octobre 2026",
+      "format": "Fleur séchée, 3,5 g; SKU SQDC 875429000401",
+      "genetics_or_cultivar": "Sativa; variété en rotation, sans croisement publié sur la fiche",
+      "geography": "Québec",
+      "product": "Menu Dessert",
+      "record_type": "produit",
+      "source_date": "Non indiquée sur la fiche; consultée le 27 octobre 2026",
+      "source_title": "Menu Dessert — SQDC",
+      "source_type": "Fiche produit SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-menu-dessert/875429000401-P/875429000401"
+    },
+    {
+      "brand": "Fleurons",
+      "claim_or_observation": "La fiche SQDC indique C3 Solutions Innovantes Inc. comme fournisseur, une intensité THC modérée et la méthode d’extraction à l’éthanol. Il s’agit d’un produit dérivé, pas d’une génétique de fleur à attribuer.",
+      "confidence": "Élevée",
+      "date_or_period": "Fiche consultée le 27 octobre 2026",
+      "format": "Timbre oral, 0,04 g de cannabis; SKU SQDC 875429000555",
+      "genetics_or_cultivar": "Mélange; pas de cultivar publié",
+      "geography": "Québec",
+      "product": "Timbre THC 10",
+      "record_type": "produit",
+      "source_date": "Non indiquée sur la fiche; consultée le 27 octobre 2026",
+      "source_title": "Timbre THC 10 — SQDC",
+      "source_type": "Fiche produit SQDC",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-timbre-thc-10/875429000555-P/875429000555"
+    },
+    {
+      "brand": "Be Humble.",
+      "brief_anonymized_excerpt": "“33 splitter is very strong, a bit of a harsh smoke; personally not my favourite.”",
+      "claim_or_observation": "Un avis de consommateur décrit une puissance élevée et une fumée un peu âpre, tout en disant que le produit peut plaire aux personnes qui recherchent une fleur très puissante. Commentaire anecdotique, pas un échantillon représentatif.",
+      "confidence": "Moyenne pour le commentaire visible; faible pour toute généralisation au marché",
+      "date_or_period": "Environ mai 2026; Reddit affichait « 5mo ago » lors de la consultation",
+      "format": "Publication Reddit publique dans r/sqdc",
+      "genetics_or_cultivar": "33 Splitter",
+      "geography": "Québec / communauté Reddit r/sqdc",
+      "product": "33 Splitter",
+      "record_type": "avis",
+      "sentiment": "Mitigé",
+      "source_date": "Date exacte non affichée dans l’extraction; âge relatif de 5 mois",
+      "source_title": "Be humble 33 splitter/29.37%THC/hybrid — r/sqdc",
+      "source_type": "Commentaire public sur réseau social / forum",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1tuasvw/be_humble_33_splitter2937thchybrid/"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "“The best buzz for a Sativa. Really impressed by the high.”",
+      "claim_or_observation": "Les opinions visibles sont partagées : l’auteur initial et certains répondants sont enthousiastes, tandis que d’autres trouvent le lot moins réussi ou davantage sédatif. Un commentateur affirme que le produit aurait été sous-traité, mais le fil ne prouve pas cette affirmation; elle n’est donc pas retenue comme fait de production.",
+      "confidence": "Moyenne pour les opinions rapportées; faible pour leur représentativité",
+      "date_or_period": "Environ 2024; Reddit affichait « 2y ago » lors de la consultation",
+      "format": "Publication et commentaires Reddit publics dans r/sqdc",
+      "genetics_or_cultivar": "Laughing Bubba; croisement non vérifié ici",
+      "geography": "Québec / communauté Reddit r/sqdc",
+      "product": "Laughing Bubba (produit en rotation évoqué dans le fil)",
+      "record_type": "avis",
+      "sentiment": "Mixte, avec avis positifs et négatifs",
+      "source_date": "Date exacte non affichée dans l’extraction; âge relatif de 2 ans",
+      "source_title": "Fleurons/ Laughing bubba — r/sqdc",
+      "source_type": "Publication et commentaires publics sur réseau social / forum",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1cvs4oh/fleurons_laughing_bubba/"
+    },
+    {
+      "brand": "Toutes marques SQDC; aucune ventilation C3/Fleurons/Be Humble dans les données citées",
+      "claim_or_observation": "Exercice clos le 29 mars 2025 : ventes totales SQDC de 741,5 M$ et 149 223 kg, contre 662,1 M$ et 122 478 kg en 2023-2024; prix moyen 5,71 $/g, toutes taxes incluses. Réseaux 2024-2025 : succursales 708,696 M$ et 142 562 kg; Web 32,809 M$ et 6 661 kg. Catégories : fleurs séchées 597,632 M$; autres produits 143,873 M$. Ces valeurs concernent le détaillant, pas le marché provincial complet, et ne mesurent pas les ventes des marques de C3.",
+      "confidence": "Élevée",
+      "date_or_period": "Exercice financier 2024-2025, clos le 29 mars 2025; comparaison 2023-2024",
+      "format": "Ventes en dollars CA et kilogrammes; détail par canal et catégorie",
+      "genetics_or_cultivar": "",
+      "geography": "Québec — ventes du réseau de la SQDC",
+      "product": "Ventes de l’ensemble du détaillant SQDC",
+      "record_type": "vente",
+      "source_date": "2025 (exercice terminé le 29 mars 2025)",
+      "source_title": "Rapport annuel 2025 — SQDC",
+      "source_type": "Rapport annuel officiel SQDC",
+      "source_url": "https://www.sqdc.ca/media/066d38f3-9664-4e0e-850d-fa1cbae62467/O9oNOw/Olive/Acc%C3%A8s%20info/Publications/Rapport%20annuel_2025_SQDC.pdf"
+    },
+    {
+      "brand": "Toutes marques SQDC; non spécifique à C3",
+      "claim_or_observation": "Exercice clos le 28 mars 2026 : 809,5 M$ de ventes, contre 741,5 M$ en 2024-2025; volume de 165 169 kg contre 149 223 kg; prix moyen de 5,63 $/g toutes taxes incluses, contre 5,71 $. La SQDC déclare une hausse de 9,2 % des ventes en dollars et de 10,7 % du volume. Elle attribue principalement la croissance à six ouvertures de succursales et à l’introduction de la vente responsable de produits de vapotage. Il s’agit de l’explication publiée par le détaillant, non d’une estimation causale indépendante.",
+      "confidence": "Élevée",
+      "date_or_period": "Exercice financier 2025-2026, clos le 28 mars 2026",
+      "format": "Chiffre d’affaires, kilogrammes et prix moyen",
+      "genetics_or_cultivar": "",
+      "geography": "Québec — détaillant SQDC",
+      "product": "Ventes de l’ensemble du détaillant SQDC",
+      "record_type": "vente",
+      "source_date": "10 juin 2026",
+      "source_title": "The SQDC reports net income of $132.4 million for fiscal 2025-2026",
+      "source_type": "Communiqué officiel du détaillant",
+      "source_url": "https://www.sqdc.ca/en-CA/about-the-sqdc/medias/2026/06/10/The-SQDC-reports-net-income-of-1324-million-for-fiscal-20252026"
+    },
+    {
+      "brand": "Toutes marques du réseau Web SQDC; non spécifique à C3",
+      "claim_or_observation": "Le rapport annuel SQDC indique que l’interruption des livraisons par Postes Canada au troisième trimestre 2024-2025 explique en partie la baisse des ventes Web par rapport à 2023-2024; il précise aussi que le conflit de travail de l’exercice précédent avait contribué à augmenter les ventes Web. C’est une attribution partielle formulée par la SQDC pour son propre canal, sans lien établi avec les ventes d’une marque précise.",
+      "confidence": "Élevée pour l’explication donnée par la SQDC; moyenne pour l’importance causale précise",
+      "date_or_period": "Troisième trimestre et exercice 2024-2025; comparaison avec 2023-2024",
+      "format": "Interruption des livraisons et ventes e-commerce",
+      "genetics_or_cultivar": "",
+      "geography": "Québec — commandes en ligne SQDC",
+      "product": "Ventes en ligne SQDC",
+      "record_type": "evenement",
+      "source_date": "2025",
+      "source_title": "Rapport annuel 2025 — SQDC, section Ventes par réseaux",
+      "source_type": "Rapport annuel officiel SQDC",
+      "source_url": "https://www.sqdc.ca/media/066d38f3-9664-4e0e-850d-fa1cbae62467/O9oNOw/Olive/Acc%C3%A8s%20info/Publications/Rapport%20annuel_2025_SQDC.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "source_type": "Site officiel d’entreprise",
+      "title": "About us — C3 Industries",
+      "url": "https://c3industries.com/about/",
+      "what_it_supports": "Siège déclaré au Michigan, portefeuille de marques et empreinte d’exploitation publiée par C3 Industries."
+    },
+    {
+      "source_type": "Registre officiel de Santé Canada",
+      "title": "Cultivateurs, transformateurs et vendeurs autorisés de cannabis sous la Loi sur le cannabis",
+      "url": "https://www.canada.ca/fr/sante-canada/services/drogues-medicaments/cannabis/titulaires-licences-demandeurs-industrie/cultivateurs-transformateurs-vendeurs-autorises.html/1000?wbdisable=true",
+      "what_it_supports": "Inscription C3 Innovative Solutions Inc. (QC), catégories de licences, classes de cannabis autorisées et date initiale de licence."
+    },
+    {
+      "source_type": "Site officiel du producteur canadien",
+      "title": "House of Brands — C3 Innovative Solutions",
+      "url": "https://www.c3.farm/brands",
+      "what_it_supports": "Présente Be Humble, Fleuron et Vibe comme marques de C3 Innovative Solutions."
+    },
+    {
+      "source_type": "Fiche officielle SQDC",
+      "title": "33 Splitter — SQDC",
+      "url": "https://www.sqdc.ca/fr-CA/p-33-splitter/875429001293-P/875429001293",
+      "what_it_supports": "Marque, génétique Gelato #33 × Atom Splitter, format, SKU, fournisseur et culture Québec."
+    },
+    {
+      "source_type": "Fiche officielle SQDC",
+      "title": "Hasch de Raisins — SQDC",
+      "url": "https://www.sqdc.ca/fr-CA/p-hasch-de-raisins/875429000838-P/875429000838",
+      "what_it_supports": "Cultivar Grape Galena, génétique déclarée, fournisseur, format et indications de fabrication."
+    },
+    {
+      "source_type": "Fiche officielle SQDC",
+      "title": "Nuit du Maroc — SQDC",
+      "url": "https://www.sqdc.ca/fr-CA/p-nuit-du-maroc/875429001194-P/875429001194",
+      "what_it_supports": "Produit Fleurons, fournisseur C3 Solutions Innovantes, format, cultivation québécoise et statut de variété en rotation."
+    },
+    {
+      "source_type": "Fiche officielle SQDC",
+      "title": "Menu Dessert — SQDC",
+      "url": "https://www.sqdc.ca/fr-CA/p-menu-dessert/875429000401-P/875429000401",
+      "what_it_supports": "Fleurons, producteur fournisseur, format et mention explicite d’une variété en rotation."
+    },
+    {
+      "source_type": "Fiche officielle SQDC",
+      "title": "Timbre THC 10 — SQDC",
+      "url": "https://www.sqdc.ca/fr-CA/p-timbre-thc-10/875429000555-P/875429000555",
+      "what_it_supports": "SKU Fleurons, fournisseur, format et informations produit d’un dérivé sans génétique publiée."
+    },
+    {
+      "source_type": "Fiche produit OCS, détaillant autorisé en Ontario",
+      "title": "Zlush Runtz infusé de résine vivante — Ontario Cannabis Store",
+      "url": "https://ocs.ca/products/zlush-runtz-infuse-de-resine-vivante-be-humble-zlush-runtz-fr",
+      "what_it_supports": "Produit Be Humble répertorié par l’OCS, producteur autorisé C3 Innovative Solutions Inc., culture québécoise et disponibilité au moment de la consultation."
+    },
+    {
+      "source_type": "Publication/commentaires publics Reddit",
+      "title": "Be humble 33 splitter/29.37%THC/hybrid — r/sqdc",
+      "url": "https://www.reddit.com/r/sqdc/comments/1tuasvw/be_humble_33_splitter2937thchybrid/",
+      "what_it_supports": "Réactions de consommateurs à un produit Be Humble; opinions anecdotiques et datage relatif visible."
+    },
+    {
+      "source_type": "Publication/commentaires publics Reddit",
+      "title": "Fleurons/ Laughing bubba — r/sqdc",
+      "url": "https://www.reddit.com/r/sqdc/comments/1cvs4oh/fleurons_laughing_bubba/",
+      "what_it_supports": "Opinions publiques et divergentes de consommateurs sur un produit Fleurons en rotation."
+    },
+    {
+      "source_type": "Rapport annuel officiel du détaillant provincial",
+      "title": "Rapport annuel 2025 — SQDC",
+      "url": "https://www.sqdc.ca/media/066d38f3-9664-4e0e-850d-fa1cbae62467/O9oNOw/Olive/Acc%C3%A8s%20info/Publications/Rapport%20annuel_2025_SQDC.pdf",
+      "what_it_supports": "Ventes totales SQDC, volume, prix moyen, ventilation par canal et catégorie, et explication partielle de l’évolution des ventes en ligne."
+    },
+    {
+      "source_type": "Communiqué officiel SQDC",
+      "title": "The SQDC reports net income of $132.4 million for fiscal 2025-2026",
+      "url": "https://www.sqdc.ca/en-CA/about-the-sqdc/medias/2026/06/10/The-SQDC-reports-net-income-of-1324-million-for-fiscal-20252026",
+      "what_it_supports": "Ventes et volume SQDC 2025-2026, comparaison à l’exercice antérieur, prix moyen et facteurs de croissance déclarés."
+    }
+  ],
+  "summary": "Le point majeur est une homonymie potentiellement trompeuse : C3 Industries se décrit comme une entreprise basée au Michigan et présente un portefeuille américain; les fiches SQDC et Santé Canada identifient plutôt C3 Solutions Innovantes Inc. / C3 Innovative Solutions Inc. comme titulaire canadien et fournisseur des marques Fleurons et Be Humble. Les sources primaires consultées ne confirment pas que ces deux sociétés ont un lien capitalistique ou qu’elles sont la même entreprise. Le producteur canadien est inscrit au registre fédéral avec des licences de vente à fins médicales, transformation et culture, initialement autorisées le 12 janvier 2018. Des fiches SQDC documentent des SKU et génétiques, mais aucune source consultée ne fournit les ventes par SKU/marque ou une part de marché propre à C3. Les chiffres de ventes fournis sont ceux du détaillant SQDC dans son ensemble, non les ventes provinciales totales."
+}

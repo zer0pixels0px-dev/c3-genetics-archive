@@ -1,0 +1,233 @@
+{
+  "id": "avis-be-humble",
+  "limitations": [
+    "Les résultats sont dominés par Reddit r/sqdc; la couverture des forums ailleurs sur le web n’est pas exhaustive et l’indexation peut omettre des fils ou commentaires.",
+    "Les avis sont spontanés et auto-sélectionnés. Aucune vérification indépendante d’achat n’a été effectuée; il est impossible d’en déduire la satisfaction moyenne des acheteurs.",
+    "Les dates relatives de Reddit et les métadonnées des résultats de recherche ne concordent pas toujours. Elles sont conservées avec leur forme affichée et aucune conversion contradictoire n’est présentée comme certaine.",
+    "Les commentaires peuvent être modifiés, supprimés ou masqués; une extraction consultable ne constitue pas une archive complète de toutes les réponses.",
+    "Les descriptions de goût, d’effet, de puissance, de fraîcheur, de prix et de comparaison sont des perceptions individuelles, non des mesures indépendantes.",
+    "Aucune donnée de ventes, de volume, de valeur ou de part de marché n’a été recherchée dans ce travail ciblé sur les avis publics; les fils ne permettent pas de déduire des ventes.",
+    "Les mentions de génétique, de fournisseur et de lot présentes dans les publications sociales ne sont pas confirmées par une fiche officielle dans ce jeu de données."
+  ],
+  "method_notes": [
+    "Les pages Reddit et BuzzNation ont été ouvertes et lues; les résultats ne reposent pas uniquement sur des extraits de moteur de recherche.",
+    "Les citations brèves restent sous la limite de 20 mots et aucun nom, pseudonyme, profil ou coordonnée d’utilisateur n’est reproduit.",
+    "Les avis favorables et défavorables sont conservés séparément lorsque les commentaires d’un même fil divergent.",
+    "Un commentaire selon lequel l’arôme ou la texture diffère entre des pots est consigné comme variation perçue seulement; aucune causalité n’est attribuée aux lots, au stockage ou au processus de production.",
+    "La page BuzzNation semble recouper un texte de critique aussi visible dans le fil Reddit Vanilla Sky; elle sert de source consultée, pas de corroboration indépendante ni de second acheteur.",
+    "Aucun SKU n’est présenté comme confirmé au-delà de ce que les auteurs des pages sociales déclarent."
+  ],
+  "name": "Avis et commentaires publics d’acheteurs sur Be Humble — Reddit et forums",
+  "records": [
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "« le buzz est puissant mais smooth aussi »",
+      "claim_or_observation": "Un acheteur décrit un effet sativa puissant mais doux, une odeur épicée et des saveurs épicées avec un fond sauge/aigre. Il juge le rapport qualité-puissance-prix excellent et dit que la variété figure parmi ses préférées. Avis individuel, non vérifié.",
+      "confidence": "Moyenne pour le fait qu’un avis public exprime cette opinion; faible pour toute généralisation de qualité ou de satisfaction.",
+      "date_or_period": "Étiquette du produit indiquée 2022-10-03; le fil affiche « 4y ago »",
+      "format": "Fleurs séchées; fil Reddit mentionnant 29,15 % THC et un emballage daté du 2022-10-03",
+      "genetics_or_cultivar": "Miss Kim",
+      "geography": "Québec; acheteur indique SQDC dans le fil",
+      "product": "Champs Verdoyants",
+      "record_type": "avis",
+      "sentiment": "positif",
+      "source_date": "Date relative affichée sur Reddit : 4y ago; date d’emballage visible : 2022-10-03",
+      "source_title": "Champs Verdoyants : Miss Kim, Be Humble, 29.15%, en ligne, emballé 22-10-03",
+      "source_type": "Fil Reddit public; publication et commentaires d’acheteurs",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/y35zd3/champs_verdoyants_miss_kim_be_humble_2915_en/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "« super fruité et très bonne [saveur] »",
+      "claim_or_observation": "Dans une discussion comparant des haschischs SQDC, un participant apprécie le Hasch de Raisins pour son goût fruité et le compare favorablement en saveur à une autre option. Un autre participant conteste cette comparaison en privilégiant la pureté et la composition d’un produit concurrent. Les avis divergent et ne constituent pas une analyse de laboratoire.",
+      "confidence": "Moyenne pour la présence des opinions; faible pour la comparaison de qualité, qui est subjective et contestée.",
+      "date_or_period": "Date relative affichée : 3y ago",
+      "format": "Haschisch; format et lot non précisés dans ce fil",
+      "genetics_or_cultivar": "Non précisé; l’auteur dit que la variété de cannabis change selon le lot",
+      "geography": "Québec / SQDC, selon le sujet de discussion",
+      "product": "Hasch de Raisins",
+      "record_type": "avis",
+      "sentiment": "positif sur la saveur; comparatif contesté",
+      "source_date": "Date relative affichée sur Reddit : 3y ago",
+      "source_title": "Votre avis dans la recherche du meilleur hash à la SQDC",
+      "source_type": "Discussion Reddit publique; opinions d’acheteurs",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/14rh0y1/votre_avis_dans_la_recherche_du_meilleur_hash_%C3%A0/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "« Would I buy again? Most definitely »",
+      "claim_or_observation": "L’acheteur rapporte une bonne odeur à l’ouverture, de belles cocottes, une fumée blanche, un goût kushy-sativa et un effet diurne. Il attribue 8,6/10 et dit qu’il rachèterait le produit. La date relative Reddit est incohérente avec les métadonnées de date du résultat de recherche; aucune date absolue n’est retenue ici.",
+      "confidence": "Moyenne pour l’opinion rapportée; faible pour la date et l’attribution du cultivar, issues du contenu social.",
+      "date_or_period": "La page Reddit affiche « 3y ago »; résultat de recherche daté 2024-10-28, incohérence non résolue",
+      "format": "Fleurs séchées; le titre du fil mentionne 29,7 % THC",
+      "genetics_or_cultivar": "Dirty Taxi (selon le commentaire de l’acheteur)",
+      "geography": "Pincourt, Québec (lieu d’achat rapporté dans le fil)",
+      "product": "Champs Verdoyants",
+      "record_type": "avis",
+      "sentiment": "positif",
+      "source_date": "Page : « 3y ago »; métadonnée du résultat de recherche : 2024-10-28; conflit de dates",
+      "source_title": "Champs Verdoyants by Be Humble 29.7% thc review to come in comments",
+      "source_type": "Fil Reddit public; critique et réponses d’acheteurs",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1asg4sx/champs_verdoyants_by_be_humble_297_thc_review_to/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "« le produit a tendance à tomber en poudre »",
+      "claim_or_observation": "Une critique détaillée décrit un profil crémeux, fruité, sucré et terreux, une fumée douce et des effets jugés à la fois stimulants et relaxants. Le même acheteur note que les fleurs s’émiettent facilement et auraient pu être plus fraîches. C’est une expérience individuelle.",
+      "confidence": "Moyenne pour le contenu de la critique; faible pour sa représentativité et pour les détails de lot non corroborés.",
+      "date_or_period": "Date relative affichée sur Reddit : 2y ago",
+      "format": "Fleurs séchées; le titre Reddit indique 28,17 % THC et 2,3 % terpènes",
+      "genetics_or_cultivar": "Vanilla Sky",
+      "geography": "Québec / SQDC, selon le titre et la discussion",
+      "product": "Champs Verdoyants",
+      "record_type": "avis",
+      "sentiment": "positif, avec réserve sur la texture/fraîcheur",
+      "source_date": "Date relative affichée sur Reddit : 2y ago",
+      "source_title": "Le Champs Verdoyants par Be Humble (Vanilla Sky) / 28,17% THC / 2,3% Terps",
+      "source_type": "Critique d’acheteur publiée sur Reddit",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1jahrpl/le_champs_verdoyants_par_be_humble_vanilla_sky/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "« Belles cocottes bien dense, odeur citronné/dank »",
+      "claim_or_observation": "L’acheteur décrit des fleurs denses et collantes, une odeur citronnée/dank et un effet puissant. En réponse à une question, il compare favorablement ce produit à certains produits de gamme SQDC, mais dit préférer normalement un prix inférieur. Il s’inquiète de l’assèchement possible après un ou deux mois; c’est une prévision, pas un constat de conservation.",
+      "confidence": "Moyenne pour les impressions sensorielles; faible pour la comparaison de valeur et toute évolution future de fraîcheur.",
+      "date_or_period": "Fil affichant « 6mo ago »; date 05/01/2026 dans le titre (format de date non explicité)",
+      "format": "Fleurs séchées; publication datée dans son titre 05/01/2026",
+      "genetics_or_cultivar": "33 Splitter",
+      "geography": "Québec / SQDC, selon la discussion",
+      "product": "33 Splitter",
+      "record_type": "avis",
+      "sentiment": "positif, avec réserve sur le prix et la conservation anticipée",
+      "source_date": "Date relative affichée : 6mo ago; date figurant dans le titre : 05/01/2026",
+      "source_title": "Be Humble - 33 Splitter 05/01/2026",
+      "source_type": "Fil Reddit public; avis et réponses d’acheteurs",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1t6mpo3/be_humble_33_splitter_05012026/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "« very strong »; « a bit of a harsh smoke »",
+      "claim_or_observation": "Une critique rapporte une odeur agréable et une forte puissance, mais une fumée un peu âpre; l’auteur précise que ce n’est pas son favori, tout en le recommandant aux personnes recherchant une fleur très puissante. La génétique inscrite dans le fil est une information d’utilisateur, pas une confirmation indépendante.",
+      "confidence": "Moyenne pour cet avis individuel; faible pour la génétique et les caractéristiques hors du témoignage.",
+      "date_or_period": "Date relative affichée : 5mo ago",
+      "format": "Fleurs séchées; 3,5 g et 29,37 % THC indiqués par la publication",
+      "genetics_or_cultivar": "33 Splitter; fil Reddit associe le nom à Gelato #33 x Atom Splitter",
+      "geography": "Québec / SQDC, selon le fil",
+      "product": "33 Splitter",
+      "record_type": "avis",
+      "sentiment": "mitigé",
+      "source_date": "Date relative affichée sur Reddit : 5mo ago",
+      "source_title": "Be humble 33 splitter/29.37%THC/hybrid",
+      "source_type": "Critique Reddit publique et commentaires",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1tuasvw/be_humble_33_splitter2937thchybrid/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "« crémeux, fuel, fruit fermenté, épicé, terreux et sucré »",
+      "claim_or_observation": "Une longue critique d’acheteur décrit des fleurs compactes, une humidité appréciée, des arômes crémeux/fr fruités/fuel/épicés, une combustion jugée propre et des effets ressentis rapidement. L’auteur nuance lui-même son avis et rappelle que la constance des lots reste à voir. Les descriptions de sensations sont subjectives.",
+      "confidence": "Moyenne pour le témoignage et les mentions de lot; faible pour tout effet généralisable ou allégation de constance.",
+      "date_or_period": "Date relative affichée : 5mo ago; emballage indiqué 2026-05-01",
+      "format": "Fleurs séchées; lot 20260501A et emballage 2026-05-01 déclarés dans le fil",
+      "genetics_or_cultivar": "33 Splitter",
+      "geography": "Québec; mention d’un achat SQDC",
+      "product": "33 Splitter",
+      "record_type": "avis",
+      "sentiment": "positif, avec réserve sur la constance future",
+      "source_date": "Date relative affichée sur Reddit : 5mo ago; emballage déclaré : 2026-05-01",
+      "source_title": "33 splitter • Be Humble",
+      "source_type": "Critique Reddit publique d’un acheteur avec commentaires",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1ts1zxn/33_splitter_be_humble/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "« il n’y a absolument plus d’odeur de fuel »",
+      "claim_or_observation": "Un acheteur décrit le lot comme puissant avec des notes citron-fuel et une fumée propre; un autre commentaire dans le même fil dit que son pot ne dégage plus d’odeur de fuel et ressemble à du cannabis de moindre qualité. Le premier auteur compare aussi ses propres pots et rapporte des différences d’arôme, de texture, de taille des feuilles et de facilité à grinder/allumer. Ces témoignages contradictoires suggèrent une variation perçue, sans prouver une variation de production ni en expliquer la cause.",
+      "confidence": "Moyenne pour l’existence de perceptions divergentes; faible pour la fréquence réelle des écarts ou leur causalité.",
+      "date_or_period": "Date relative affichée : 3mo ago; emballage déclaré dans le post : 2026-07-14",
+      "format": "Fleurs séchées; critique portant sur un lot emballé le 2026-07-14 selon le post",
+      "genetics_or_cultivar": "33 Splitter",
+      "geography": "Québec / SQDC selon le fil",
+      "product": "33 Splitter",
+      "record_type": "avis",
+      "sentiment": "mixte; puissance et goût appréciés par certains, constance contestée par d’autres",
+      "source_date": "Date relative affichée sur Reddit : 3mo ago; emballage déclaré : 2026-07-14",
+      "source_title": "33 splitter • be humble",
+      "source_type": "Fil Reddit public; critique et commentaires d’acheteurs",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1vjmbez/33_splitter_be_humble/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "Les pages de fils consultées exposent publiquement des avis et commentaires sans connexion ni contournement dans l’accès de recherche utilisé. Les fils sont des contributions spontanées et auto-sélectionnées; plusieurs commentaires sont supprimés ou édités, et les dates sont souvent relatives. Ils ne fournissent ni preuve de transaction ni échantillon représentatif des acheteurs.",
+      "confidence": "Élevée pour l’accessibilité et les limites visibles de cette page; cela ne garantit pas l’exhaustivité de Reddit.",
+      "date_or_period": "Pages consultées le 2026-10-27; plusieurs horodatages relatifs",
+      "format": "Commentaires publics Reddit",
+      "genetics_or_cultivar": "Plusieurs; détails seulement lorsqu’ils figurent dans les fils individuels",
+      "geography": "Communauté r/sqdc, orientée marché québécois",
+      "product": "Plusieurs produits, notamment 33 Splitter, Champs Verdoyants et Hasch de Raisins",
+      "record_type": "transparence",
+      "sentiment": "sans objet",
+      "source_date": "Consultée le 2026-10-27; horodatage relatif affiché par Reddit",
+      "source_title": "33 splitter • be humble",
+      "source_type": "Page de discussion publique / limite de couverture de plateforme",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1vjmbez/33_splitter_be_humble/"
+    }
+  ],
+  "sources": [
+    {
+      "source_type": "Fil Reddit public",
+      "title": "Champs Verdoyants : Miss Kim, Be Humble, 29.15%, en ligne, emballé 22-10-03",
+      "url": "https://www.reddit.com/r/sqdc/comments/y35zd3/champs_verdoyants_miss_kim_be_humble_2915_en/",
+      "what_it_supports": "Avis d’acheteur sur Miss Kim : puissance, douceur, odeur, saveur, humidité et valeur perçue."
+    },
+    {
+      "source_type": "Discussion Reddit publique",
+      "title": "Votre avis dans la recherche du meilleur hash à la SQDC",
+      "url": "https://www.reddit.com/r/sqdc/comments/14rh0y1/votre_avis_dans_la_recherche_du_meilleur_hash_%C3%A0/",
+      "what_it_supports": "Opinions comparatives sur la saveur du Hasch de Raisins et commentaires signalant une variation de cultivar selon les lots."
+    },
+    {
+      "source_type": "Fil Reddit public",
+      "title": "Champs Verdoyants by Be Humble 29.7% thc review to come in comments",
+      "url": "https://www.reddit.com/r/sqdc/comments/1asg4sx/champs_verdoyants_by_be_humble_297_thc_review_to/",
+      "what_it_supports": "Critique favorable de Dirty Taxi sous Champs Verdoyants et réponses d’autres participants."
+    },
+    {
+      "source_type": "Critique Reddit publique",
+      "title": "Le Champs Verdoyants par Be Humble (Vanilla Sky) / 28,17% THC / 2,3% Terps",
+      "url": "https://www.reddit.com/r/sqdc/comments/1jahrpl/le_champs_verdoyants_par_be_humble_vanilla_sky/",
+      "what_it_supports": "Évaluation détaillée de Vanilla Sky, avec observations positives et réserve sur la texture/fraîcheur."
+    },
+    {
+      "source_type": "Fil Reddit public",
+      "title": "Be Humble - 33 Splitter 05/01/2026",
+      "url": "https://www.reddit.com/r/sqdc/comments/1t6mpo3/be_humble_33_splitter_05012026/",
+      "what_it_supports": "Retour sur densité, odeur, puissance, valeur perçue et préoccupation anticipée sur le séchage."
+    },
+    {
+      "source_type": "Critique Reddit publique",
+      "title": "Be humble 33 splitter/29.37%THC/hybrid",
+      "url": "https://www.reddit.com/r/sqdc/comments/1tuasvw/be_humble_33_splitter2937thchybrid/",
+      "what_it_supports": "Avis mitigé signalant forte puissance et fumée âpre; réponses comparatives d’autres acheteurs."
+    },
+    {
+      "source_type": "Critique Reddit publique",
+      "title": "33 splitter • Be Humble",
+      "url": "https://www.reddit.com/r/sqdc/comments/1ts1zxn/33_splitter_be_humble/",
+      "what_it_supports": "Retour détaillé sur un lot emballé le 2026-05-01, arômes, texture, combustion et effets perçus."
+    },
+    {
+      "source_type": "Fil Reddit public",
+      "title": "33 splitter • be humble",
+      "url": "https://www.reddit.com/r/sqdc/comments/1vjmbez/33_splitter_be_humble/",
+      "what_it_supports": "Critique et commentaires contradictoires sur plusieurs pots/lots, incluant arôme, puissance, humidité et constance perçue."
+    },
+    {
+      "source_type": "Site de critiques de cannabis; source secondaire consultée",
+      "title": "Champs Verdoyants (Vanilla Sky) par Be Humble",
+      "url": "https://www.buzznation.ca/reviews/champs-verdoyants-vanilla-sky-par-be-humble/",
+      "what_it_supports": "Critique structurée de Vanilla Sky publiée par BuzzNation, avec notes, observations de produit et date affichée au format 12-03-25; son contenu recoupe largement la critique visible sur Reddit, donc elle n’est pas comptée comme un avis indépendant additionnel."
+    }
+  ],
+  "summary": "La recherche a trouvé des avis publics surtout dans r/sqdc. Les retours sur les Champs Verdoyants en rotation et le Hasch de Raisins sont plutôt positifs, tandis que les discussions sur 33 Splitter signalent à la fois une forte puissance, des arômes appréciés, de la fumée parfois âpre, et des différences perçues entre pots ou lots. Il s’agit de témoignages individuels non vérifiés, pas d’une mesure représentative de satisfaction ni de ventes. Les dates sont retranscrites telles qu’affichées par les pages lorsqu’elles sont relatives."
+}

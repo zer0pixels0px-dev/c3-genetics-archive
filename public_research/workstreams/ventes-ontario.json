@@ -1,0 +1,342 @@
+{
+  "id": "ventes-ontario",
+  "limitations": [
+    "Les rapports publics OCS donnent des agrégats provinciaux, régionaux ou par catégorie, et des classements partiels; aucun fichier ouvert de ventes par magasin, SKU et détaillant n’a été trouvé dans les sources consultées. Cela ne prouve pas qu’aucun accès non public ou demande d’accès à l’information ne soit possible.",
+    "Les données OCS de souscription sont réservées aux détaillants, producteurs ou abonnés selon le programme et les clauses affichées; certaines conditions du formulaire portent une date ancienne. Il faut confirmer les droits, la définition de la donnée et l’actualité des contrats avant toute collecte ou redistribution.",
+    "Les métriques par magasin offertes aux producteurs selon l’article de 2024 sont des commandes/expéditions en gros des produits propres, non des ventes finales au consommateur ni des données de concurrents.",
+    "La carte OCS/AGCO n’affiche que des plages moyennes de segment/région, et sa page porte une réserve d’usage confidentiel/réservé aux détaillants autorisés; elle ne permet pas de reconstruire les ventes d’un magasin identifié.",
+    "Statistique Canada offre une série annuelle par province et type, mais avec une périodicité, une granularité et des regroupements qui ne permettent pas une analyse par marque ou magasin.",
+    "Les pages SQDC consultées affichent un écran d’âge/autorisation, bien que les spécifications des produits soient visibles dans l’extraction; prix, stocks et disponibilité dépendent du lieu et évoluent. Les fiches ne donnent pas nécessairement une génétique fixe pour les références en rotation.",
+    "Les deux fils Reddit consultés étaient accessibles publiquement sans contournement; les avis sont auto-sélectionnés, subjectifs, non représentatifs et parfois accompagnés de détails de lot impossibles à vérifier indépendamment. Les plateformes ou commentaires non accessibles publiquement n’ont pas été collectés.",
+    "Le lien juridique entre C3 Industries et C3 Solutions Innovantes Inc. reste non établi par les sources primaires consultées; l’identité C3 dans les noms ne constitue pas une preuve de propriété commune."
+  ],
+  "method_notes": [
+    "Priorité aux pages officielles de l’OCS, de l’AGCO, de Statistique Canada, de la SQDC et de C3; les pages sources ont été consultées directement. Un article secondaire a servi seulement à décrire le programme producteur de 2024.",
+    "Distinguer ventes au détail (grammes/dollars vendus par les magasins), expéditions/commandes en gros de l’OCS, valeur en dollars, volume en grammes et prix moyen wholesale; ces mesures ne sont pas interchangeables.",
+    "Les taux +5,6 % volume et +3,5 % valeur sont des évolutions annuelles agrégées, pas des parts de marché; aucune causalité n’est attribuée à l’écart.",
+    "Les fiches SQDC identifient le fournisseur C3 Solutions Innovantes Inc.; elles ne prouvent pas, à elles seules, une filiation juridique avec C3 Industries. Les produits aux variétés en rotation sont conservés comme tels et non présentés comme génétiques confirmées.",
+    "Pour les avis, aucun nom, pseudonyme, coordonnée ou profil n’est reproduit. Les extraits anonymisés font moins de 20 mots; ils restent des opinions individuelles et ne sont pas présentés comme données de vente."
+  ],
+  "name": "Transparence des ventes de cannabis en Ontario et produits C3/Fleurons/Be Humble à la SQDC",
+  "records": [
+    {
+      "brand": "",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "L’OCS rapporte 441 069 676 g vendus et 2 281 841 116 $ de ventes légales au détail par les magasins de cannabis autorisés. Le même rapport distingue les expéditions en gros du centre de distribution de l’OCS : 452 590 868 g expédiés aux magasins (+6 %), mesure qui n’est pas le sell-through au consommateur.",
+      "confidence": "Élevée — chiffres explicitement publiés par l’OCS; le rapport précise toutefois que les données sont à titre informatif et non auditées.",
+      "date_or_period": "1 janv.–31 déc. 2025",
+      "format": "Ventes au détail, grammes et dollars",
+      "genetics_or_cultivar": "",
+      "geography": "Ontario",
+      "product": "Ventes légales de cannabis en Ontario",
+      "record_type": "vente",
+      "sentiment": "",
+      "source_date": "Métadonnées du PDF : créé le 26 mai 2026; période couverte 2025",
+      "source_title": "Ontario Cannabis Marketplace: By the Numbers (Jan. 1–Dec. 31, 2025)",
+      "source_type": "Rapport officiel provincial",
+      "source_url": "https://doingbusinesswithocs.ca/wp-content/uploads/2026/05/OCS-By-The-Numbers-Annual-Data-Report-2025.pdf"
+    },
+    {
+      "brand": "",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "Le rapport indique +5,6 % sur les grammes vendus et +3,5 % sur la valeur par rapport à 2024. C’est une variation agrégée descriptive; elle n’établit pas pourquoi volume et valeur progressent à des rythmes différents et ne permet pas d’isoler les ventes d’une marque ou d’un magasin.",
+      "confidence": "Élevée — taux de variation déclarés par l’OCS; aucune interprétation causale n’est faite.",
+      "date_or_period": "2025 par rapport à 2024",
+      "format": "Variation annuelle, volume versus valeur",
+      "genetics_or_cultivar": "",
+      "geography": "Ontario",
+      "product": "Variation des ventes au détail provinciales",
+      "record_type": "vente",
+      "sentiment": "",
+      "source_date": "Métadonnées du PDF : créé le 26 mai 2026",
+      "source_title": "Ontario Cannabis Marketplace: By the Numbers (Jan. 1–Dec. 31, 2025)",
+      "source_type": "Rapport officiel provincial",
+      "source_url": "https://doingbusinesswithocs.ca/wp-content/uploads/2026/05/OCS-By-The-Numbers-Annual-Data-Report-2025.pdf"
+    },
+    {
+      "claim_or_observation": "Le rapport 2025 publie notamment des ventes au détail agrégées par catégorie et région, ainsi que les cinq marques principales par catégorie selon les unités vendues. Ce n’est pas un relevé complet des ventes par SKU ni un tableau magasin-par-magasin; le classement de marques ne doit pas être interprété comme une part de marché complète.",
+      "confidence": "Élevée — portée et tableaux visibles dans le rapport.",
+      "date_or_period": "Rapport couvrant 2025",
+      "geography": "Ontario",
+      "record_type": "transparence",
+      "source_date": "Créé le 26 mai 2026 selon les métadonnées PDF",
+      "source_title": "Ontario Cannabis Marketplace: By the Numbers (Jan. 1–Dec. 31, 2025)",
+      "source_type": "Rapport officiel provincial",
+      "source_url": "https://doingbusinesswithocs.ca/wp-content/uploads/2026/05/OCS-By-The-Numbers-Annual-Data-Report-2025.pdf"
+    },
+    {
+      "claim_or_observation": "La carte de conditions du marché OCS/AGCO offre par région et segment de concurrence le nombre de magasins, un score composite et une plage de ventes mensuelles moyennes par magasin calculée sur les trois derniers mois. C’est une statistique de segment/région, pas le chiffre d’affaires de chaque magasin. La page indique des mises à jour trimestrielles et une réserve d’usage confidentiel/réservé aux détaillants autorisés.",
+      "confidence": "Élevée — définitions et réserve d’usage figurent sur la page; les valeurs sont présentées en plages agrégées.",
+      "date_or_period": "Mise à jour trimestrielle annoncée; date de l’observation non précisée sur la page",
+      "geography": "Ontario, segments et régions de la carte",
+      "record_type": "transparence",
+      "source_date": "Non indiquée",
+      "source_title": "Ontario Cannabis Retail Market Conditions Map",
+      "source_type": "Outil cartographique officiel OCS/AGCO",
+      "source_url": "https://learn.ocswholesale.ca/ontario-cannabis-retail-market-conditions-map/"
+    },
+    {
+      "claim_or_observation": "Le formulaire du programme de données OCS destiné aux détaillants décrit des données au niveau magasin sur les ventes propres du souscripteur de produits achetés auprès de l’OCS pour chaque magasin participant, plus des données agrégées de toutes les ventes au détail en Ontario. Le barème affiché indique 0 $. Il s’agit d’un accès sous abonnement et non d’un jeu ouvert; les conditions interdisent notamment la redistribution sans consentement. Le formulaire contient aussi des conditions datées de 2018, donc leur version actuelle doit être confirmée auprès de l’OCS.",
+      "confidence": "Élevée pour le périmètre affiché; moyenne quant à l’actualité de toutes les clauses, en raison de la date des conditions.",
+      "date_or_period": "Formulaire consulté le 27 oct. 2026; conditions générales visibles datées du 15 sept. 2018",
+      "geography": "Ontario; magasins autorisés participants",
+      "record_type": "transparence",
+      "source_date": "La page n’affiche pas de date de publication; certaines conditions indiquent 15 septembre 2018",
+      "source_title": "Data Subscription Agreement Form",
+      "source_type": "Formulaire et entente OCS",
+      "source_url": "https://learn.ocswholesale.ca/data-subscription-agreement-form/"
+    },
+    {
+      "claim_or_observation": "L’AGCO indique que le système POS de chaque détaillant autorisé doit enregistrer toutes les transactions de cannabis et être intégré à la plateforme automatisée de transmission POS, lancée avec l’OCS en 2024. La page décrit un flux réglementaire vers l’OCS et l’AGCO; elle n’est pas une interface publique de consultation des ventes magasin-par-magasin.",
+      "confidence": "Élevée pour l’obligation réglementaire et le flux décrits; la page ne statue pas sur toutes les demandes possibles d’accès à l’information.",
+      "date_or_period": "Plateforme lancée en 2024; page mise à jour le 12 déc. 2025 selon l’index AGCO",
+      "geography": "Ontario",
+      "record_type": "transparence",
+      "source_date": "12 décembre 2025 (date d’indexation de la page AGCO)",
+      "source_title": "Cannabis Records: Requirements and Point-of-Sale Data Reporting Platform",
+      "source_type": "Réglementation et documentation officielle",
+      "source_url": "https://www.agco.ca/en/cannabis/retail-reporting/cannabis-records-requirements-and-point-sale-data-reporting-platform"
+    },
+    {
+      "claim_or_observation": "Statistique Canada fournit un jeu de données téléchargeable annuellement sur les ventes et ventes par habitant par autorités des alcools et du cannabis et autres détaillants, par type de cannabis. C’est une source ouverte pour séries provinciales et types de produits, mais elle ne donne pas les ventes par boutique, marque ou SKU.",
+      "confidence": "Élevée — métadonnées, fréquence, ressources CSV et licence ouverte sont explicites.",
+      "date_or_period": "Publication/actualisation du jeu : 5 mars 2026; fréquence annuelle",
+      "geography": "Canada, avec ventilation provinciale selon les dimensions du tableau",
+      "record_type": "transparence",
+      "source_date": "5 mars 2026",
+      "source_title": "Sales of cannabis by liquor and cannabis authorities and other retail outlets, by cannabis type",
+      "source_type": "Jeu de données gouvernemental ouvert",
+      "source_url": "https://open.canada.ca/data/en/dataset/11290f74-203d-4024-9fc1-906577d3d19a"
+    },
+    {
+      "claim_or_observation": "Selon l’article de StratCann rapportant une annonce de l’OCS, depuis le 23 août 2024 les producteurs abonnés peuvent recevoir des métriques d’expédition en gros par SKU et détaillant pour leurs propres produits; les données de magasin ne concernent pas les produits concurrents et ne proviennent pas des métriques POS ou d’inventaire du détaillant. Elles décrivent des commandes/expéditions de gros, pas nécessairement les ventes finales aux consommateurs.",
+      "confidence": "Moyenne à élevée — compte rendu détaillé d’une annonce OCS, mais source secondaire.",
+      "date_or_period": "À compter du 23 août 2024, selon l’article",
+      "geography": "Ontario",
+      "record_type": "transparence",
+      "source_date": "23 août 2024",
+      "source_title": "OCS launches more detailed sales metrics for producers",
+      "source_type": "Article sectoriel secondaire citant l’OCS",
+      "source_url": "https://stratcann.com/news/ocs-launches-more-detailed-sales-metrics-for-producers/"
+    },
+    {
+      "brand": "Be Humble; Fleuron/Fleurons",
+      "claim_or_observation": "Le site de C3 Innovative Solutions se décrit comme producteur canadien autorisé; sa page de marques associe Be Humble et Fleuron à cette entité. Les fiches SQDC consultées nomment le fournisseur C3 Solutions Innovantes Inc. Les éléments publics consultés ne suffisent pas à établir le lien juridique de cette société avec C3 Industries, dont le site de marques consulté présente une gamme américaine distincte; ne pas attribuer automatiquement ces génétiques à C3 Industries sans vérification corporative supplémentaire.",
+      "confidence": "Moyenne — les associations C3 Innovative Solutions/Be Humble/Fleuron sont explicites; la relation corporative à C3 Industries demeure non vérifiée.",
+      "date_or_period": "Site C3 affichant une publication au 15 mai 2026; pages consultées le 27 oct. 2026",
+      "geography": "Québec / Canada",
+      "record_type": "transparence",
+      "source_date": "15 mai 2026 selon la page C3.farm",
+      "source_title": "About Us; House of Brands",
+      "source_type": "Pages officielles d’entreprise et fiche détaillant",
+      "source_url": "https://www.c3.farm/about-us"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "La fiche SQDC indique le fournisseur C3 Solutions Innovantes Inc., une dominance indica, des terpènes caryophyllène/limonène/myrcène et 250–300 mg/g de THC. La fiche signalait le produit indisponible au moment de la consultation; l’état de stock varie.",
+      "confidence": "Élevée pour l’identité, la génétique et les caractéristiques déclarées par la fiche SQDC; disponibilité ponctuelle.",
+      "date_or_period": "Fiche consultée le 27 oct. 2026",
+      "format": "Fleurs séchées, 3,5 g",
+      "genetics_or_cultivar": "33 Splitter; Gelato #33 x Atom Splitter",
+      "geography": "SQDC, Québec",
+      "product": "33 Splitter, code produit 875429001293",
+      "record_type": "genetique",
+      "sentiment": "",
+      "source_date": "Non affichée sur la fiche",
+      "source_title": "33 Splitter",
+      "source_type": "Fiche produit officielle du détaillant",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-33-splitter/875429001293-P/875429001293"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "Fiche SQDC : fournisseur C3 Solutions Innovantes Inc.; sativa cultivée au Québec, THC élevé. La marque ne donne pas de cultivar fixe sur cette fiche et précise que les arômes varient selon les lots. Le produit était affiché indisponible à la consultation.",
+      "confidence": "Élevée pour les champs affichés; aucune génétique stable ne peut être inférée.",
+      "date_or_period": "Fiche consultée le 27 oct. 2026",
+      "format": "Fleurs séchées, 3,5 g",
+      "genetics_or_cultivar": "Variété en rotation; génétique non précisée sur la fiche",
+      "geography": "SQDC, Québec",
+      "product": "Menu Dessert, code produit 875429000401",
+      "record_type": "produit",
+      "sentiment": "",
+      "source_date": "Non affichée sur la fiche",
+      "source_title": "Menu Dessert",
+      "source_type": "Fiche produit officielle du détaillant",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-menu-dessert/875429000401-P/875429000401"
+    },
+    {
+      "brand": "Fleurons",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "Fiche SQDC : fournisseur C3 Solutions Innovantes Inc.; catégorie dérivés, dominance indica, caryophyllène et THC élevé; produit cultivé au Québec selon la fiche. La variété est indiquée en rotation; disponibilité affichée comme indisponible lors de la consultation.",
+      "confidence": "Élevée pour les spécifications déclarées; génétique propre au lot non fournie.",
+      "date_or_period": "Fiche consultée le 27 oct. 2026",
+      "format": "Haschich, 12 g; tamisage à sec",
+      "genetics_or_cultivar": "Variété en rotation; génétique non précisée",
+      "geography": "SQDC, Québec",
+      "product": "Nuit du Maroc, code produit 875429001194",
+      "record_type": "produit",
+      "sentiment": "",
+      "source_date": "Non affichée sur la fiche",
+      "source_title": "Nuit du Maroc",
+      "source_type": "Fiche produit officielle du détaillant",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-nuit-du-maroc/875429001194-P/875429001194"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "",
+      "claim_or_observation": "La fiche SQDC nomme la variété Grape Galena, sa génétique, le fournisseur C3 Solutions Innovantes Inc., une dominance sativa et une culture au Québec. La fiche affichait une disponibilité nulle au moment de la consultation.",
+      "confidence": "Élevée pour les champs de la fiche SQDC; ne prouve pas la génétique de chaque lot au-delà de l’information publiée.",
+      "date_or_period": "Fiche consultée le 27 oct. 2026",
+      "format": "Haschich, 8 g; extraction à l’eau glacée",
+      "genetics_or_cultivar": "Grape Galena; (OGKB x Lost Sailor) x Platinum Kush",
+      "geography": "SQDC, Québec",
+      "product": "Hasch de Raisins, code produit 875429000838",
+      "record_type": "genetique",
+      "sentiment": "",
+      "source_date": "Non affichée sur la fiche",
+      "source_title": "Hasch de Raisins",
+      "source_type": "Fiche produit officielle du détaillant",
+      "source_url": "https://www.sqdc.ca/fr-CA/p-hasch-de-raisins/875429000838-P/875429000838"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "“creamy, fruity, with a touch of fuel & spice”",
+      "claim_or_observation": "Avis public individuel positif : décrit une fumée douce, des arômes crémeux/fruits et un effet puissant mais équilibré. Le fil rapporte aussi une étiquette de lot datée du 1er mai 2026 et 29,37 % THC; information soumise par un acheteur, non vérifiée indépendamment. Ce n’est pas une mesure de vente ni une estimation représentative.",
+      "confidence": "Faible — retour subjectif individuel et détails de lot fournis par l’auteur; aucun handle ou profil repris.",
+      "date_or_period": "Fil affichant « 5mo ago » au 27 oct. 2026; date exacte non établie dans la page extraite; lot déclaré emballé le 1er mai 2026",
+      "format": "Fleurs séchées; commentaire sur lot déclaré par l’auteur",
+      "genetics_or_cultivar": "Gelato #33 x Atom Splitter selon la fiche SQDC",
+      "geography": "Québec, communauté Reddit r/sqdc",
+      "product": "33 Splitter",
+      "record_type": "avis",
+      "sentiment": "Positif",
+      "source_date": "Page consultée publiquement; indique « 5mo ago »; date calendaire non vérifiée",
+      "source_title": "33 splitter • Be Humble",
+      "source_type": "Commentaire public de plateforme sociale, contenu utilisateur",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1ts1zxn/33_splitter_be_humble/"
+    },
+    {
+      "brand": "Be Humble",
+      "brief_anonymized_excerpt": "“very strong, a bit harsh … wasn’t my favourite”",
+      "claim_or_observation": "Un autre avis public décrit le produit comme très puissant et un peu âpre, dit qu’il n’a pas été le préféré de l’auteur, tout en le recommandant aux personnes recherchant une fleur très forte. Contraste anecdotique avec l’avis positif ci-dessus; aucun lien avec les ventes.",
+      "confidence": "Faible — opinion subjective d’un seul auteur; aucun handle ou profil repris.",
+      "date_or_period": "Fil affichant « 5mo ago » au 27 oct. 2026; date calendaire exacte non confirmée dans la page extraite",
+      "format": "Fleurs séchées",
+      "genetics_or_cultivar": "33 Splitter",
+      "geography": "Québec, communauté Reddit r/sqdc",
+      "product": "33 Splitter",
+      "record_type": "avis",
+      "sentiment": "Mitigé / négatif sur la douceur, positif sur puissance et odeur",
+      "source_date": "Page consultée publiquement; indique « 5mo ago »; date calendaire non vérifiée",
+      "source_title": "Be humble 33 splitter/29.37%THC/hybrid",
+      "source_type": "Commentaire public de plateforme sociale, contenu utilisateur",
+      "source_url": "https://www.reddit.com/r/sqdc/comments/1tuasvw/be_humble_33_splitter2937thchybrid/"
+    }
+  ],
+  "sources": [
+    {
+      "source_type": "Rapport annuel officiel OCS, PDF",
+      "title": "Ontario Cannabis Marketplace: By the Numbers (Jan. 1–Dec. 31, 2025)",
+      "url": "https://doingbusinesswithocs.ca/wp-content/uploads/2026/05/OCS-By-The-Numbers-Annual-Data-Report-2025.pdf",
+      "what_it_supports": "Totaux de ventes au détail et expéditions en gros, variations annuelles, ventes par région/catégorie et classement des cinq marques principales par catégorie; le rapport prévient que les données sont non auditées et impose des restrictions d’usage."
+    },
+    {
+      "source_type": "Page officielle OCS",
+      "title": "OCS Publications",
+      "url": "https://ocs.ca/pages/ocs-publications",
+      "what_it_supports": "Accès aux éditions annuelles 2023–2025 de By the Numbers et indication que les anciens rapports trimestriels/annuels Insights ne sont plus produits."
+    },
+    {
+      "source_type": "Communiqué officiel OCS",
+      "title": "New OCS data report showcases progress of legal cannabis industry",
+      "url": "https://ocs.ca/blogs/news/new-ocs-data-report-showcases-progress-of-legal-cannabis-industry",
+      "what_it_supports": "Cadre des rapports OCS et totaux provinciaux antérieurs pour 2023; confirme l’objet de la publication annuelle, pas une donnée par magasin."
+    },
+    {
+      "source_type": "Formulaire officiel OCS Wholesale",
+      "title": "Data Subscription Agreement Form",
+      "url": "https://learn.ocswholesale.ca/data-subscription-agreement-form/",
+      "what_it_supports": "Périmètre déclaré des données par détaillant et magasin, agrégat provincial, tarif affiché et restrictions contractuelles de redistribution."
+    },
+    {
+      "source_type": "Outil officiel OCS/AGCO",
+      "title": "Ontario Cannabis Retail Market Conditions Map",
+      "url": "https://learn.ocswholesale.ca/ontario-cannabis-retail-market-conditions-map/",
+      "what_it_supports": "Données agrégées par segment/région, plage de ventes mensuelles moyennes par magasin sur les trois mois précédents, actualisation trimestrielle et réserve d’usage affichée."
+    },
+    {
+      "source_type": "Guide réglementaire officiel AGCO",
+      "title": "Cannabis Records: Requirements and Point-of-Sale Data Reporting Platform",
+      "url": "https://www.agco.ca/en/cannabis/retail-reporting/cannabis-records-requirements-and-point-sale-data-reporting-platform",
+      "what_it_supports": "Obligation POS des détaillants, lancement de la plateforme automatisée et transmission des données à l’OCS et à l’AGCO."
+    },
+    {
+      "source_type": "Jeu de données ouvert de Statistique Canada via le Portail du gouvernement ouvert",
+      "title": "Sales of cannabis by liquor and cannabis authorities and other retail outlets, by cannabis type",
+      "url": "https://open.canada.ca/data/en/dataset/11290f74-203d-4024-9fc1-906577d3d19a",
+      "what_it_supports": "Série annuelle téléchargeable des ventes et ventes par habitant par autorité et type de cannabis; contexte provincial, sans magasin/marque/SKU."
+    },
+    {
+      "source_type": "Article secondaire sectoriel",
+      "title": "OCS launches more detailed sales metrics for producers",
+      "url": "https://stratcann.com/news/ocs-launches-more-detailed-sales-metrics-for-producers/",
+      "what_it_supports": "Modalités annoncées en 2024 sur les métriques wholesale par détaillant/SKU réservées aux produits propres des producteurs abonnés."
+    },
+    {
+      "source_type": "Page officielle C3 Innovative Solutions",
+      "title": "About Us",
+      "url": "https://www.c3.farm/about-us",
+      "what_it_supports": "Présentation de l’entité comme producteur canadien autorisé et description de ses activités de culture/transformation au Québec."
+    },
+    {
+      "source_type": "Page officielle C3 Innovative Solutions",
+      "title": "House of Brands",
+      "url": "https://www.c3.farm/brands",
+      "what_it_supports": "Association déclarée des marques Be Humble et Fleuron avec C3 Innovative Solutions."
+    },
+    {
+      "source_type": "Page officielle C3 Industries",
+      "title": "Our Brands",
+      "url": "https://c3industries.com/brands/",
+      "what_it_supports": "Portefeuille présenté par C3 Industries; ne suffit pas à prouver le lien juridique avec C3 Solutions Innovantes Inc."
+    },
+    {
+      "source_type": "Fiche produit SQDC",
+      "title": "33 Splitter",
+      "url": "https://www.sqdc.ca/fr-CA/p-33-splitter/875429001293-P/875429001293",
+      "what_it_supports": "Marque, fournisseur, cultivar, génétique, format, cannabinoïdes, terpènes et état de disponibilité affiché au moment de la consultation."
+    },
+    {
+      "source_type": "Fiche produit SQDC",
+      "title": "Menu Dessert",
+      "url": "https://www.sqdc.ca/fr-CA/p-menu-dessert/875429000401-P/875429000401",
+      "what_it_supports": "Fleurons, fournisseur, format, culture au Québec et indication que la variété est en rotation."
+    },
+    {
+      "source_type": "Fiche produit SQDC",
+      "title": "Nuit du Maroc",
+      "url": "https://www.sqdc.ca/fr-CA/p-nuit-du-maroc/875429001194-P/875429001194",
+      "what_it_supports": "Fleurons, fournisseur, format/technique de fabrication et variété en rotation."
+    },
+    {
+      "source_type": "Fiche produit SQDC",
+      "title": "Hasch de Raisins",
+      "url": "https://www.sqdc.ca/fr-CA/p-hasch-de-raisins/875429000838-P/875429000838",
+      "what_it_supports": "Be Humble, fournisseur, variété et génétique publiées, format et caractéristiques du produit."
+    },
+    {
+      "source_type": "Page Reddit publique, avis utilisateur",
+      "title": "33 splitter • Be Humble",
+      "url": "https://www.reddit.com/r/sqdc/comments/1ts1zxn/33_splitter_be_humble/",
+      "what_it_supports": "Un retour public individuel, descriptions de goût/effet et informations de lot déclarées; identité du compte non reprise."
+    },
+    {
+      "source_type": "Page Reddit publique, avis utilisateur",
+      "title": "Be humble 33 splitter/29.37%THC/hybrid",
+      "url": "https://www.reddit.com/r/sqdc/comments/1tuasvw/be_humble_33_splitter2937thchybrid/",
+      "what_it_supports": "Un autre retour public individuel, notamment puissance et âpreté perçues; identité du compte non reprise."
+    }
+  ],
+  "summary": "Les meilleures sources publiques consultées donnent des totaux provinciaux et des classements limités, mais pas un fichier ouvert de ventes détaillées par magasin, SKU ou marque. Pour 2025, l’OCS rapporte 441 069 676 g de cannabis vendus par les magasins autorisés pour 2 281 841 116 $; la hausse annuelle est de 5,6 % en volume et 3,5 % en valeur. L’OCS et l’AGCO décrivent aussi des accès ou transmissions de données qui ne sont pas des données publiques magasin-par-magasin. À la SQDC, les fiches consultées attribuent plusieurs produits Fleurons et Be Humble à C3 Solutions Innovantes Inc.; elles documentent certaines génétiques, mais parfois indiquent une variété en rotation. Aucune source primaire consultée n’établit à elle seule le lien juridique entre C3 Solutions Innovantes Inc. et C3 Industries. Deux avis Reddit accessibles donnent des observations individuelles contradictoires sur 33 Splitter; ils ne mesurent ni ventes ni représentativité des acheteurs."
+}
